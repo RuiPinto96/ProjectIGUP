@@ -1,0 +1,202 @@
+['REGISTOS METEOROLOGICOS 1866.xlsx']
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 229.92 - <Worksheet "Dezembro 1865"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 185.6 - <Worksheet "Dezembro 1865"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 311.36 - <Worksheet "Dezembro 1865"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 216.96 - <Worksheet "Dezembro 1865"> Dia: 6
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 202.56 - <Worksheet "Dezembro 1865"> Dia: 8
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 161.28 - <Worksheet "Dezembro 1865"> Dia: 9
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 163.68 - <Worksheet "Dezembro 1865"> Dia: 10
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 218.56 - <Worksheet "Dezembro 1865"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 221.82 - <Worksheet "Dezembro 1865"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 187.84 - <Worksheet "Dezembro 1865"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 223.68 - <Worksheet "Dezembro 1865"> Dia: 17
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 186.88 - <Worksheet "Dezembro 1865"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 283.68 - <Worksheet "Dezembro 1865"> Dia: 20
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 311.04 - <Worksheet "Dezembro 1865"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 165.44 - <Worksheet "Dezembro 1865"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 279.84 - <Worksheet "Dezembro 1865"> Dia: 23
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 245.76 - <Worksheet "Dezembro 1865"> Dia: 24
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 175.84 - <Worksheet "Dezembro 1865"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 273.28 - <Worksheet "Dezembro 1865"> Dia: 29
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 273.12 - <Worksheet "Dezembro 1865"> Dia: 30
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 313.44 - <Worksheet "Janeiro 1866"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 151.52 - <Worksheet "Janeiro 1866"> Dia: 2
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 203.68 - <Worksheet "Janeiro 1866"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 179.04 - <Worksheet "Janeiro 1866"> Dia: 9
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 169.28 - <Worksheet "Janeiro 1866"> Dia: 10
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 333.12 - <Worksheet "Janeiro 1866"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 167.36 - <Worksheet "Janeiro 1866"> Dia: 12
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 180.8 - <Worksheet "Janeiro 1866"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 187.68 - <Worksheet "Janeiro 1866"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 200.12 - <Worksheet "Janeiro 1866"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 205.12 - <Worksheet "Janeiro 1866"> Dia: 24
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 301.12 - <Worksheet "Janeiro 1866"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 344.64 - <Worksheet "Janeiro 1866"> Dia: 26
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 194.72 - <Worksheet "Janeiro 1866"> Dia: 27
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 299.2 - <Worksheet "Janeiro 1866"> Dia: 31
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 397.28 - <Worksheet "Fevereiro 1866"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 495.2 - <Worksheet "Fevereiro 1866"> Dia: 2
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 200.16 - <Worksheet "Fevereiro 1866"> Dia: 10
+Valor Suspeito Pluvimetro (15H): 68.6 - <Worksheet "Fevereiro 1866"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 386.08 - <Worksheet "Fevereiro 1866"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 522.08 - <Worksheet "Fevereiro 1866"> Dia: 12
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 358.08 - <Worksheet "Fevereiro 1866"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 253.92 - <Worksheet "Fevereiro 1866"> Dia: 20
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 343.36 - <Worksheet "Fevereiro 1866"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 358.24 - <Worksheet "Fevereiro 1866"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 159.68 - <Worksheet "Fevereiro 1866"> Dia: 23
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 235.84 - <Worksheet "Fevereiro 1866"> Dia: 24
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 179.36 - <Worksheet "Fevereiro 1866"> Dia: 28
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 162.24 - <Worksheet "Mar\xe7o 1866"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 152.16 - <Worksheet "Mar\xe7o 1866"> Dia: 2
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 175.52 - <Worksheet "Mar\xe7o 1866"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 155.04 - <Worksheet "Mar\xe7o 1866"> Dia: 6
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 277.0 - <Worksheet "Mar\xe7o 1866"> Dia: 8
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 231.84 - <Worksheet "Mar\xe7o 1866"> Dia: 9
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 193.92 - <Worksheet "Mar\xe7o 1866"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 185.92 - <Worksheet "Mar\xe7o 1866"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 475.68 - <Worksheet "Mar\xe7o 1866"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 496.32 - <Worksheet "Mar\xe7o 1866"> Dia: 17
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 327.84 - <Worksheet "Mar\xe7o 1866"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 317.6 - <Worksheet "Mar\xe7o 1866"> Dia: 19
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 309.76 - <Worksheet "Mar\xe7o 1866"> Dia: 20
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 150.57 - <Worksheet "Mar\xe7o 1866"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 169.44 - <Worksheet "Mar\xe7o 1866"> Dia: 23
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 447.36 - <Worksheet "Mar\xe7o 1866"> Dia: 24
+Formato de Valor incorrecto: <Worksheet "Mar\xe7o 1866"> Dia: 31 Hora :12 Coluna 15
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 275.36 - <Worksheet "Abril 1866"> Dia: 7
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 232.64 - <Worksheet "Abril 1866"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 218.88 - <Worksheet "Abril 1866"> Dia: 12
+Valor Suspeito Pluvimetro (15H): 96.8 - <Worksheet "Abril 1866"> Dia: 26
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 169.12 - <Worksheet "Abril 1866"> Dia: 28
+Valor Suspeito Pluvimetro (15H): 57.0 - <Worksheet "Maio 1866"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 242.56 - <Worksheet "Maio 1866"> Dia: 4
+Valor Suspeito Tensao Vapor (15H): 17.14 - <Worksheet "Maio 1866"> Dia: 8
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 207.36 - <Worksheet "Maio 1866"> Dia: 12
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 177.76 - <Worksheet "Maio 1866"> Dia: 13
+Valor Suspeito Pluvimetro (15H): 64.4 - <Worksheet "Maio 1866"> Dia: 23
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 160.0 - <Worksheet "Maio 1866"> Dia: 24
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 225.92 - <Worksheet "Maio 1866"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 160.8 - <Worksheet "Maio 1866"> Dia: 26
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 249.92 - <Worksheet "Maio 1866"> Dia: 27
+Valor Suspeito Pluvimetro (15H): 56.2 - <Worksheet "Maio 1866"> Dia: 28
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 171.84 - <Worksheet "Maio 1866"> Dia: 31
+Valor Suspeito Tensao Vapor (15H): 17.51 - <Worksheet "Junho 1866"> Dia: 7
+Valor Suspeito Tensao Vapor (12H): 17.33 - <Worksheet "Junho 1866"> Dia: 8
+Valor Suspeito Tensao Vapor (15H): 19.17 - <Worksheet "Junho 1866"> Dia: 8
+Valor Suspeito Tensao Vapor (12H): 21.35 - <Worksheet "Junho 1866"> Dia: 9
+Valor Suspeito Tensao Vapor (15H): 23.9 - <Worksheet "Junho 1866"> Dia: 9
+Valor Suspeito Tensao Vapor (15H): 18.55 - <Worksheet "Junho 1866"> Dia: 10
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 218.08 - <Worksheet "Junho 1866"> Dia: 13
+Valor Suspeito Tensao Vapor (15H): 17.82 - <Worksheet "Junho 1866"> Dia: 14
+Valor Suspeito Tensao Vapor (12H): 19.28 - <Worksheet "Junho 1866"> Dia: 15
+Valor Suspeito Tensao Vapor (15H): 17.07 - <Worksheet "Junho 1866"> Dia: 15
+Valor Suspeito Tensao Vapor (9H): 19.1 - <Worksheet "Junho 1866"> Dia: 16
+Valor Suspeito Tensao Vapor (12H): 21.51 - <Worksheet "Junho 1866"> Dia: 16
+Valor Suspeito Tensao Vapor (15H): 21.9 - <Worksheet "Junho 1866"> Dia: 16
+Valor Suspeito Tensao Vapor (12H): 17.99 - <Worksheet "Junho 1866"> Dia: 17
+Valor Suspeito Tensao Vapor (15H): 20.22 - <Worksheet "Junho 1866"> Dia: 17
+Valor Suspeito Tensao Vapor (15H): 18.58 - <Worksheet "Junho 1866"> Dia: 21
+Valor Suspeito Tensao Vapor (9H): 18.31 - <Worksheet "Junho 1866"> Dia: 23
+Valor Suspeito Tensao Vapor (12H): 21.77 - <Worksheet "Junho 1866"> Dia: 23
+Valor Suspeito Tensao Vapor (15H): 24.67 - <Worksheet "Junho 1866"> Dia: 23
+Valor Suspeito Tensao Vapor (12H): 18.06 - <Worksheet "Junho 1866"> Dia: 24
+Valor Suspeito Tensao Vapor (12H): 17.1 - <Worksheet "Junho 1866"> Dia: 26
+Valor Suspeito Tensao Vapor (9H): 17.0 - <Worksheet "Junho 1866"> Dia: 27
+Valor Suspeito Tensao Vapor (12H): 17.94 - <Worksheet "Junho 1866"> Dia: 27
+Valor Suspeito Tensao Vapor (15H): 18.3 - <Worksheet "Junho 1866"> Dia: 27
+Valor Suspeito Tensao Vapor (12H): 17.32 - <Worksheet "Junho 1866"> Dia: 28
+Valor Suspeito Tensao Vapor (15H): 17.06 - <Worksheet "Junho 1866"> Dia: 28
+Valor Suspeito Tensao Vapor (15H): 17.15 - <Worksheet "Junho 1866"> Dia: 29
+Valor Suspeito Tensao Vapor (15H): 18.16 - <Worksheet "Junho 1866"> Dia: 30
+Valor Suspeito Tensao Vapor (12H): 17.06 - <Worksheet "Julho 1866"> Dia: 1
+Valor Suspeito Tensao Vapor (15H): 18.06 - <Worksheet "Julho 1866"> Dia: 1
+Valor Suspeito Tensao Vapor (12H): 17.06 - <Worksheet "Julho 1866"> Dia: 2
+Valor Suspeito Tensao Vapor (15H): 17.43 - <Worksheet "Julho 1866"> Dia: 3
+Valor Suspeito Tensao Vapor (15H): 19.04 - <Worksheet "Julho 1866"> Dia: 4
+Valor Suspeito Tensao Vapor (15H): 19.35 - <Worksheet "Julho 1866"> Dia: 5
+Valor Suspeito Tensao Vapor (15H): 17.15 - <Worksheet "Julho 1866"> Dia: 7
+Valor Suspeito Tensao Vapor (12H): 18.06 - <Worksheet "Julho 1866"> Dia: 8
+Valor Suspeito Tensao Vapor (15H): 23.27 - <Worksheet "Julho 1866"> Dia: 8
+Valor Suspeito Tensao Vapor (9H): 23.33 - <Worksheet "Julho 1866"> Dia: 9
+Valor Suspeito Tensao Vapor (12H): 25.88 - <Worksheet "Julho 1866"> Dia: 9
+Valor Suspeito Tensao Vapor (15H): 31.68 - <Worksheet "Julho 1866"> Dia: 9
+Valor Suspeito Tensao Vapor (9H): 24.97 - <Worksheet "Julho 1866"> Dia: 10
+Valor Suspeito Tensao Vapor (12H): 24.05 - <Worksheet "Julho 1866"> Dia: 10
+Valor Suspeito Tensao Vapor (15H): 22.31 - <Worksheet "Julho 1866"> Dia: 10
+Valor Suspeito Tensao Vapor (9H): 17.0 - <Worksheet "Julho 1866"> Dia: 11
+Valor Suspeito Tensao Vapor (12H): 19.7 - <Worksheet "Julho 1866"> Dia: 11
+Valor Suspeito Tensao Vapor (15H): 20.04 - <Worksheet "Julho 1866"> Dia: 11
+Valor Suspeito Tensao Vapor (12H): 17.87 - <Worksheet "Julho 1866"> Dia: 12
+Valor Suspeito Tensao Vapor (15H): 20.02 - <Worksheet "Julho 1866"> Dia: 12
+Valor Suspeito Tensao Vapor (9H): 18.79 - <Worksheet "Julho 1866"> Dia: 13
+Valor Suspeito Tensao Vapor (12H): 17.11 - <Worksheet "Julho 1866"> Dia: 13
+Valor Suspeito Tensao Vapor (15H): 18.79 - <Worksheet "Julho 1866"> Dia: 13
+Valor Suspeito Tensao Vapor (12H): 17.82 - <Worksheet "Julho 1866"> Dia: 14
+Valor Suspeito Tensao Vapor (15H): 21.57 - <Worksheet "Julho 1866"> Dia: 14
+Valor Suspeito Tensao Vapor (15H): 18.92 - <Worksheet "Julho 1866"> Dia: 15
+Valor Suspeito Tensao Vapor (15H): 17.82 - <Worksheet "Julho 1866"> Dia: 16
+Valor Suspeito Tensao Vapor (15H): 17.89 - <Worksheet "Julho 1866"> Dia: 17
+Valor Suspeito Tensao Vapor (15H): 18.0 - <Worksheet "Julho 1866"> Dia: 18
+Valor Suspeito Tensao Vapor (15H): 18.97 - <Worksheet "Julho 1866"> Dia: 19
+Valor Suspeito Tensao Vapor (9H): 17.99 - <Worksheet "Julho 1866"> Dia: 20
+Valor Suspeito Tensao Vapor (12H): 21.51 - <Worksheet "Julho 1866"> Dia: 20
+Valor Suspeito Tensao Vapor (15H): 22.81 - <Worksheet "Julho 1866"> Dia: 20
+Valor Suspeito Tensao Vapor (9H): 17.15 - <Worksheet "Julho 1866"> Dia: 21
+Valor Suspeito Tensao Vapor (12H): 19.28 - <Worksheet "Julho 1866"> Dia: 21
+Valor Suspeito Tensao Vapor (15H): 20.28 - <Worksheet "Julho 1866"> Dia: 21
+Valor Suspeito Tensao Vapor (12H): 17.06 - <Worksheet "Julho 1866"> Dia: 23
+Valor Suspeito Tensao Vapor (15H): 18.92 - <Worksheet "Julho 1866"> Dia: 23
+Valor Suspeito Tensao Vapor (15H): 19.22 - <Worksheet "Julho 1866"> Dia: 24
+Valor Suspeito Tensao Vapor (9H): 17.21 - <Worksheet "Julho 1866"> Dia: 25
+Valor Suspeito Tensao Vapor (15H): 18.85 - <Worksheet "Julho 1866"> Dia: 26
+Valor Suspeito Tensao Vapor (12H): 19.85 - <Worksheet "Julho 1866"> Dia: 27
+Valor Suspeito Tensao Vapor (15H): 18.17 - <Worksheet "Julho 1866"> Dia: 27
+Valor Suspeito Tensao Vapor (12H): 18.12 - <Worksheet "Julho 1866"> Dia: 28
+Valor Suspeito Tensao Vapor (15H): 17.5 - <Worksheet "Julho 1866"> Dia: 28
+Valor Suspeito Tensao Vapor (9H): 20.76 - <Worksheet "Julho 1866"> Dia: 29
+Valor Suspeito Tensao Vapor (15H): 17.94 - <Worksheet "Julho 1866"> Dia: 29
+Valor Suspeito Tensao Vapor (9H): 19.16 - <Worksheet "Julho 1866"> Dia: 30
+Valor Suspeito Tensao Vapor (12H): 19.59 - <Worksheet "Julho 1866"> Dia: 30
+Valor Suspeito Tensao Vapor (15H): 21.75 - <Worksheet "Julho 1866"> Dia: 30
+Valor Suspeito Tensao Vapor (12H): 19.54 - <Worksheet "Julho 1866"> Dia: 31
+Valor Suspeito Tensao Vapor (15H): 19.22 - <Worksheet "Julho 1866"> Dia: 31
+Valor Suspeito Tensao Vapor (9H): 18.0 - <Worksheet "Agosto 1866"> Dia: 1
+Valor Suspeito Tensao Vapor (12H): 21.85 - <Worksheet "Agosto 1866"> Dia: 1
+Valor Suspeito Tensao Vapor (15H): 21.51 - <Worksheet "Agosto 1866"> Dia: 1
+Valor Suspeito Tensao Vapor (9H): 17.17 - <Worksheet "Agosto 1866"> Dia: 2
+Valor Suspeito Tensao Vapor (12H): 19.59 - <Worksheet "Agosto 1866"> Dia: 2
+Valor Suspeito Tensao Vapor (15H): 19.28 - <Worksheet "Agosto 1866"> Dia: 2
+Valor Suspeito Tensao Vapor (9H): 19.4 - <Worksheet "Agosto 1866"> Dia: 3
+Valor Suspeito Tensao Vapor (12H): 22.95 - <Worksheet "Agosto 1866"> Dia: 3
+Valor Suspeito Tensao Vapor (15H): 27.15 - <Worksheet "Agosto 1866"> Dia: 3
+Valor Suspeito Tensao Vapor (9H): 26.13 - <Worksheet "Agosto 1866"> Dia: 4
+Valor Suspeito Tensao Vapor (12H): 31.28 - <Worksheet "Agosto 1866"> Dia: 4
+Valor Suspeito Tensao Vapor (15H): 32.8 - <Worksheet "Agosto 1866"> Dia: 4
+Valor Suspeito Tensao Vapor (9H): 22.34 - <Worksheet "Agosto 1866"> Dia: 5
+Valor Suspeito Tensao Vapor (12H): 23.61 - <Worksheet "Agosto 1866"> Dia: 5
+Valor Suspeito Tensao Vapor (9H): 17.49 - <Worksheet "Agosto 1866"> Dia: 6
+Valor Suspeito Tensao Vapor (12H): 19.65 - <Worksheet "Agosto 1866"> Dia: 6
+Valor Suspeito Tensao Vapor (15H): 23.07 - <Worksheet "Agosto 1866"> Dia: 6
+Valor Suspeito Tensao Vapor (12H): 17.01 - <Worksheet "Agosto 1866"> Dia: 13
+Valor Suspeito Tensao Vapor (15H): 17.48 - <Worksheet "Agosto 1866"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 166.4 - <Worksheet "Agosto 1866"> Dia: 14
+Valor Suspeito Temperatura (12H): 45.0 - <Worksheet "Agosto 1866"> Dia: 15
+Valor Suspeito Tensao Vapor (12H): 17.85 - <Worksheet "Agosto 1866"> Dia: 15
+Valor Suspeito Tensao Vapor (15H): 17.26 - <Worksheet "Agosto 1866"> Dia: 15
+Valor Suspeito Tensao Vapor (9H): 18.0 - <Worksheet "Agosto 1866"> Dia: 16
+Valor Suspeito Tensao Vapor (12H): 19.31 - <Worksheet "Agosto 1866"> Dia: 16
+Valor Suspeito Tensao Vapor (15H): 17.23 - <Worksheet "Agosto 1866"> Dia: 16
+Valor Suspeito Tensao Vapor (15H): 17.15 - <Worksheet "Agosto 1866"> Dia: 17
+Valor Suspeito Tensao Vapor (12H): 18.98 - <Worksheet "Agosto 1866"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (12H): 201.92 - <Worksheet "Agosto 1866"> Dia: 20
+Valor Suspeito Tensao Vapor (12H): 17.28 - <Worksheet "Agosto 1866"> Dia: 28
+Valor Suspeito Tensao Vapor (15H): 18.3 - <Worksheet "Agosto 1866"> Dia: 28
+Valor Suspeito Tensao Vapor (12H): 17.05 - <Worksheet "Agosto 1866"> Dia: 30
+Valor Suspeito Tensao Vapor (15H): 17.27 - <Worksheet "Agosto 1866"> Dia: 30
+Valor Suspeito Tensao Vapor (15H): 17.15 - <Worksheet "Setembro 1866"> Dia: 1
+Valor Suspeito Temperatura (15H): 222.1 - <Worksheet "Setembro 1866"> Dia: 5
+Valor Suspeito Tensao Vapor (9H): 18.62 - <Worksheet "Setembro 1866"> Dia: 17
+Valor Suspeito Temperatura (9H): 230.0 - <Worksheet "Novembro 1866"> Dia: 1
+1866/REGISTOS METEOROLOGICOS 1866.xlsx
+----------------------------

@@ -1,0 +1,128 @@
+['REGISTOS METEOROLOGICOS 1863.xlsx', 'REGISTOS METEOROLOGICOS 1864.xlsx', 'REGISTOS METEOROLOGICOS 1861.xlsx', 'REGISTOS METEOROLOGICOS  1862.xlsx']
+Formato de Valor incorrecto: <Worksheet "Dezembro 1862"> Dia: 22 Hora :15 Coluna 11
+Formato de Valor incorrecto: <Worksheet "Dezembro 1862"> Dia: 24 Hora :12 Coluna 2
+Valor Suspeito Pluvimetro (9H): 57.0 - <Worksheet "Janeiro 1863"> Dia: 9
+Valor Suspeito Temperatura (15H): 161.0 - <Worksheet "Fevereiro 1863"> Dia: 28
+Valor Suspeito Humidade (9H): 737.0 - <Worksheet "Fevereiro 1863"> Dia: 28
+Valor Suspeito Temperatura (15H): 135.0 - <Worksheet "Mar\xe7o 1863"> Dia: 6
+Formato de Valor incorrecto: <Worksheet "Abril 1863"> Dia: 25 Hora :15 Coluna 9
+Formato de Valor incorrecto: <Worksheet "Junho 1863"> Dia: 30 Hora :12 Coluna 21
+Valor Suspeito Tensao Vapor (15H): 19.82 - <Worksheet "Julho 1863"> Dia: 5
+Valor Suspeito Tensao Vapor (15H): 17.48 - <Worksheet "Agosto 1863"> Dia: 4
+Valor Suspeito Tensao Vapor (15H): 17.01 - <Worksheet "Agosto 1863"> Dia: 8
+Valor Suspeito Pressao (15H): 75.619 - <Worksheet "Agosto 1863"> Dia: 10
+Formato de Valor incorrecto: <Worksheet "Agosto 1863"> Dia: 11 Hora :15 Coluna 3
+Valor Suspeito Tensao Vapor (15H): 17.09 - <Worksheet "Agosto 1863"> Dia: 11
+Valor Suspeito Tensao Vapor (12H): 17.13 - <Worksheet "Agosto 1863"> Dia: 15
+Valor Suspeito Tensao Vapor (15H): 17.85 - <Worksheet "Agosto 1863"> Dia: 15
+Valor Suspeito Tensao Vapor (15H): 17.14 - <Worksheet "Agosto 1863"> Dia: 21
+Formato de Valor incorrecto: <Worksheet "Setembro 1863"> Dia: 2 Hora :9 Coluna 1
+Valor Suspeito Tensao Vapor (15H): 17.01 - <Worksheet "Setembro 1863"> Dia: 17
+1861 - 1867/REGISTOS METEOROLOGICOS 1863.xlsx
+----------------------------
+Valor Suspeito Pressao (15H): 346.58 - <Worksheet "Fevereiro 1864"> Dia: 27
+Valor Suspeito Pressao (15H): 855.65 - <Worksheet "Abril 1864"> Dia: 6
+Valor Suspeito Humidade (9H): 618.0 - <Worksheet "Abril 1864"> Dia: 30
+Valor Suspeito Tensao Vapor (15H): 17.0 - <Worksheet "Maio 1864"> Dia: 20
+Valor Suspeito Tensao Vapor (12H): 17.05 - <Worksheet "Maio 1864"> Dia: 22
+Valor Suspeito Tensao Vapor (15H): 17.17 - <Worksheet "Maio 1864"> Dia: 24
+Valor Suspeito Pressao (15H): 75.24 - <Worksheet "Junho 1864"> Dia: 11
+Valor Suspeito Tensao Vapor (15H): 17.12 - <Worksheet "Junho 1864"> Dia: 20
+Valor Suspeito Tensao Vapor (15H): 17.31 - <Worksheet "Junho 1864"> Dia: 21
+Valor Suspeito Tensao Vapor (12H): 17.4 - <Worksheet "Julho 1864"> Dia: 1
+Valor Suspeito Tensao Vapor (12H): 18.08 - <Worksheet "Julho 1864"> Dia: 19
+Valor Suspeito Tensao Vapor (15H): 18.99 - <Worksheet "Julho 1864"> Dia: 19
+Valor Suspeito Tensao Vapor (12H): 18.05 - <Worksheet "Julho 1864"> Dia: 20
+Valor Suspeito Tensao Vapor (15H): 19.26 - <Worksheet "Julho 1864"> Dia: 20
+Valor Suspeito Tensao Vapor (15H): 19.73 - <Worksheet "Julho 1864"> Dia: 23
+Formato de Valor incorrecto: <Worksheet "Julho 1864"> Dia: 24 Hora :15 Coluna 10
+Valor Suspeito Tensao Vapor (15H): 20.39 - <Worksheet "Agosto 1864"> Dia: 8
+Valor Suspeito Tensao Vapor (15H): 18.67 - <Worksheet "Agosto 1864"> Dia: 12
+Formato de Valor incorrecto: <Worksheet "Agosto 1864"> Dia: 16 Hora :12 Coluna 8
+Valor Suspeito Tensao Vapor (9H): 17.14 - <Worksheet "Agosto 1864"> Dia: 22
+Valor Suspeito Tensao Vapor (12H): 17.04 - <Worksheet "Agosto 1864"> Dia: 22
+Valor Suspeito Tensao Vapor (9H): 17.2 - <Worksheet "Agosto 1864"> Dia: 23
+Valor Suspeito Tensao Vapor (12H): 17.74 - <Worksheet "Agosto 1864"> Dia: 23
+Valor Suspeito Tensao Vapor (15H): 17.56 - <Worksheet "Agosto 1864"> Dia: 23
+Valor Suspeito Tensao Vapor (15H): 18.09 - <Worksheet "Agosto 1864"> Dia: 31
+Valor Suspeito Tensao Vapor (12H): 17.78 - <Worksheet "Setembro 1864"> Dia: 1
+Valor Suspeito Tensao Vapor (15H): 17.54 - <Worksheet "Setembro 1864"> Dia: 1
+Valor Suspeito Pluvimetro (9H): 69.5 - <Worksheet "Setembro 1864"> Dia: 16
+Valor Suspeito Tensao Vapor (15H): 20.01 - <Worksheet "Setembro 1864"> Dia: 25
+Valor Suspeito Tensao Vapor (15H): 17.04 - <Worksheet "Setembro 1864"> Dia: 26
+Valor Suspeito Tensao Vapor (15H): 17.15 - <Worksheet "Setembro 1864"> Dia: 29
+Valor Suspeito Temperatura (12H): 217.0 - <Worksheet "Novembro 1864"> Dia: 30
+1861 - 1867/REGISTOS METEOROLOGICOS 1864.xlsx
+----------------------------
+Formato de Valor incorrecto: <Worksheet "Dezembro 1860"> Dia: 16 Hora :15 Coluna 3
+Formato de Valor incorrecto: <Worksheet "Dezembro 1860"> Dia: 18 Hora :15 Coluna 3
+Valor Suspeito Pressao (Media): 75.95 - <Worksheet "Janeiro 1861"> Dia: 17
+Valor Suspeito Pressao (9H): 64.45 - <Worksheet "Mar\xe7o 1861"> Dia: 4
+Valor Suspeito Pressao (12H): 76520.0 - <Worksheet "Mar\xe7o 1861"> Dia: 7
+Valor Suspeito Tensao Vapor (12H): 7698.0 - <Worksheet "Mar\xe7o 1861"> Dia: 11
+Valor Suspeito Pressao (Media): 751085.0 - <Worksheet "Abril 1861"> Dia: 3
+Valor Suspeito Pluvimetro (9H): 60.0 - <Worksheet "Maio 1861"> Dia: 9
+Valor Suspeito Pluvimetro (9H): 56.0 - <Worksheet "Maio 1861"> Dia: 10
+Valor Suspeito Temperatura (9H): 109.7 - <Worksheet "Maio 1861"> Dia: 14
+Valor Suspeito Tensao Vapor (9H): 19.64 - <Worksheet "Maio 1861"> Dia: 16
+Valor Suspeito Pressao (12H): 754076.0 - <Worksheet "Julho 1861"> Dia: 3
+Valor Suspeito Tensao Vapor (9H): 18.14 - <Worksheet "Agosto 1861"> Dia: 9
+Valor Suspeito Tensao Vapor (12H): 18.99 - <Worksheet "Agosto 1861"> Dia: 9
+Valor Suspeito Tensao Vapor (15H): 22.12 - <Worksheet "Agosto 1861"> Dia: 9
+Valor Suspeito Tensao Vapor (15H): 18.38 - <Worksheet "Agosto 1861"> Dia: 10
+Valor Suspeito Tensao Vapor (9H): 17.42 - <Worksheet "Agosto 1861"> Dia: 14
+Valor Suspeito Tensao Vapor (9H): 19.26 - <Worksheet "Agosto 1861"> Dia: 15
+Valor Suspeito Tensao Vapor (12H): 19.7 - <Worksheet "Agosto 1861"> Dia: 15
+Valor Suspeito Tensao Vapor (15H): 19.65 - <Worksheet "Agosto 1861"> Dia: 15
+Formato de Valor incorrecto: <Worksheet "Agosto 1861"> Dia: 17 Hora :9 Coluna 14
+Valor Suspeito Tensao Vapor (15H): 17.49 - <Worksheet "Agosto 1861"> Dia: 27
+Valor Suspeito Tensao Vapor (15H): 17.37 - <Worksheet "Agosto 1861"> Dia: 30
+Valor Suspeito Tensao Vapor (9H): 17.1 - <Worksheet "Agosto 1861"> Dia: 31
+Valor Suspeito Pressao (12H): 75.35 - <Worksheet "Setembro 1861"> Dia: 10
+Valor Suspeito Temperatura (15H): 221.0 - <Worksheet "Setembro 1861"> Dia: 14
+Valor Suspeito Tensao Vapor (9H): 25.63 - <Worksheet "Setembro 1861"> Dia: 28
+Valor Suspeito Tensao Vapor (15H): 17.52 - <Worksheet "Outubro 1861"> Dia: 6
+Valor Suspeito Pressao (9H): 756098.0 - <Worksheet "Outubro 1861"> Dia: 22
+Valor Suspeito Pressao (15H): 7852.6 - <Worksheet "Outubro 1861"> Dia: 25
+1861 - 1867/REGISTOS METEOROLOGICOS 1861.xlsx
+----------------------------
+Formato de Valor incorrecto: <Worksheet "Mar\xe7o 1862"> Dia: 8 Hora :9 Coluna 17
+Formato de Valor incorrecto: <Worksheet "Mar\xe7o 1862"> Dia: 30 Hora :12 Coluna 7
+Valor Suspeito Pluvimetro (9H): 67.7 - <Worksheet "Maio 1862"> Dia: 5
+Valor Suspeito Tensao Vapor (12H): 20.14 - <Worksheet "Junho 1862"> Dia: 23
+Valor Suspeito Tensao Vapor (12H): 17.18 - <Worksheet "Julho 1862"> Dia: 8
+Valor Suspeito Tensao Vapor (9H): 17.53 - <Worksheet "Julho 1862"> Dia: 9
+Valor Suspeito Tensao Vapor (12H): 17.61 - <Worksheet "Julho 1862"> Dia: 9
+Valor Suspeito Tensao Vapor (9H): 17.19 - <Worksheet "Julho 1862"> Dia: 20
+Valor Suspeito Tensao Vapor (12H): 18.27 - <Worksheet "Julho 1862"> Dia: 20
+Valor Suspeito Tensao Vapor (9H): 17.13 - <Worksheet "Julho 1862"> Dia: 21
+Valor Suspeito Tensao Vapor (12H): 17.67 - <Worksheet "Julho 1862"> Dia: 21
+Valor Suspeito Tensao Vapor (15H): 19.45 - <Worksheet "Julho 1862"> Dia: 21
+Valor Suspeito Tensao Vapor (12H): 18.26 - <Worksheet "Julho 1862"> Dia: 22
+Valor Suspeito Tensao Vapor (15H): 20.65 - <Worksheet "Julho 1862"> Dia: 22
+Valor Suspeito Tensao Vapor (9H): 17.79 - <Worksheet "Julho 1862"> Dia: 23
+Valor Suspeito Tensao Vapor (12H): 23.44 - <Worksheet "Julho 1862"> Dia: 23
+Valor Suspeito Tensao Vapor (15H): 23.5 - <Worksheet "Julho 1862"> Dia: 23
+Formato de Valor incorrecto: <Worksheet "Julho 1862"> Dia: 24 Hora :15 Coluna 3
+Valor Suspeito Tensao Vapor (9H): 19.83 - <Worksheet "Julho 1862"> Dia: 24
+Valor Suspeito Tensao Vapor (12H): 23.99 - <Worksheet "Julho 1862"> Dia: 24
+Valor Suspeito Tensao Vapor (15H): 26.8 - <Worksheet "Julho 1862"> Dia: 24
+Valor Suspeito Tensao Vapor (9H): 19.45 - <Worksheet "Julho 1862"> Dia: 25
+Valor Suspeito Tensao Vapor (12H): 21.78 - <Worksheet "Julho 1862"> Dia: 25
+Valor Suspeito Tensao Vapor (15H): 21.33 - <Worksheet "Julho 1862"> Dia: 25
+Valor Suspeito Tensao Vapor (12H): 17.08 - <Worksheet "Julho 1862"> Dia: 26
+Valor Suspeito Tensao Vapor (9H): 17.55 - <Worksheet "Julho 1862"> Dia: 31
+Valor Suspeito Tensao Vapor (15H): 20.17 - <Worksheet "Julho 1862"> Dia: 31
+Valor Suspeito Tensao Vapor (12H): 19.14 - <Worksheet "Agosto 1862"> Dia: 1
+Valor Suspeito Tensao Vapor (15H): 21.69 - <Worksheet "Agosto 1862"> Dia: 1
+Valor Suspeito Tensao Vapor (15H): 17.25 - <Worksheet "Agosto 1862"> Dia: 13
+Valor Suspeito Tensao Vapor (15H): 17.3 - <Worksheet "Agosto 1862"> Dia: 14
+Valor Suspeito Temperatura (15H): 234.0 - <Worksheet "Agosto 1862"> Dia: 15
+Valor Suspeito Tensao Vapor (15H): 17.29 - <Worksheet "Agosto 1862"> Dia: 19
+Valor Suspeito Temperatura (15H): 232.0 - <Worksheet "Agosto 1862"> Dia: 25
+Valor Suspeito Tensao Vapor (9H): 70.81 - <Worksheet "Outubro 1862"> Dia: 21
+Valor Suspeito Tensao Vapor (15H): 111.56 - <Worksheet "Outubro 1862"> Dia: 23
+Valor Suspeito Tensao Vapor (9H): 954.0 - <Worksheet "Outubro 1862"> Dia: 30
+Formato de Valor incorrecto: <Worksheet "Novembro 1862"> Dia: 11 Hora :15 Coluna 3
+1861 - 1867/REGISTOS METEOROLOGICOS  1862.xlsx
+----------------------------

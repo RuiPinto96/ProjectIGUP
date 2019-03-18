@@ -1,0 +1,282 @@
+['REGISTOS METEOROLOGICOS 1868.xlsx']
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 1 Hora 12 Coluna 25
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 1 Hora 12 Coluna 26
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 2 Hora 12 Coluna 25
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 2 Hora 12 Coluna 26
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 3 Hora 12 Coluna 25
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 3 Hora 12 Coluna 26
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 4 Hora 12 Coluna 25
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 4 Hora 12 Coluna 26
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 5 Hora 12 Coluna 25
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 5 Hora 12 Coluna 26
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 6 Hora 12 Coluna 25
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 6 Hora 12 Coluna 26
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 7 Hora 12 Coluna 25
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 7 Hora 12 Coluna 26
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 8 Hora 12 Coluna 25
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 8 Hora 12 Coluna 26
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 9 Hora 12 Coluna 25
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 9 Hora 12 Coluna 26
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 10 Hora 12 Coluna 25
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 10 Hora 12 Coluna 26
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 11 Hora 12 Coluna 25
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 11 Hora 12 Coluna 26
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 12 Hora 12 Coluna 25
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 12 Hora 12 Coluna 26
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 13 Hora 12 Coluna 25
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 13 Hora 12 Coluna 26
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 14 Hora 12 Coluna 25
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 14 Hora 12 Coluna 26
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 15 Hora 12 Coluna 25
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 15 Hora 12 Coluna 26
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 16 Hora 12 Coluna 25
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 16 Hora 12 Coluna 26
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 17 Hora 12 Coluna 25
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 17 Hora 12 Coluna 26
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 18 Hora 12 Coluna 25
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 18 Hora 12 Coluna 26
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 19 Hora 12 Coluna 25
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 19 Hora 12 Coluna 26
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 20 Hora 12 Coluna 25
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 20 Hora 12 Coluna 26
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 21 Hora 12 Coluna 25
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 21 Hora 12 Coluna 26
+Valor Suspeito Pressao (15H): 857.7 - <Worksheet "Janeiro 1868"> Dia: 22
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 22 Hora 12 Coluna 25
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 22 Hora 12 Coluna 26
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 23 Hora 12 Coluna 25
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 23 Hora 12 Coluna 26
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 24 Hora 12 Coluna 25
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 24 Hora 12 Coluna 26
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 25 Hora 12 Coluna 25
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 25 Hora 12 Coluna 26
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 26 Hora 12 Coluna 25
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 26 Hora 12 Coluna 26
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 27 Hora 12 Coluna 25
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 27 Hora 12 Coluna 26
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 28 Hora 12 Coluna 25
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 28 Hora 12 Coluna 26
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 29 Hora 12 Coluna 25
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 29 Hora 12 Coluna 26
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 30 Hora 12 Coluna 25
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 30 Hora 12 Coluna 26
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 31 Hora 12 Coluna 25
+Celula vazia: <Worksheet "Janeiro 1868"> Dia: 31 Hora 12 Coluna 26
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 1 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 1 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 2 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 2 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 3 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 3 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 4 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 4 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 5 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 5 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 6 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 6 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 7 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 7 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 8 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 8 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 9 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 9 Hora 15 Coluna 26
+Formato de Valor incorrecto: <Worksheet "Fevereiro 1868"> Dia: 10 Hora :15 Coluna 3
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 10 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 10 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 11 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 11 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 12 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 12 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 13 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 13 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 14 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 14 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 15 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 15 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 16 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 16 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 17 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 17 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 18 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 18 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 19 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 19 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 20 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 20 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 21 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 21 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 22 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 22 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 23 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 23 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 24 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 24 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 25 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 25 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 26 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 26 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 27 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 27 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 28 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 28 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 29 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Fevereiro 1868"> Dia: 29 Hora 15 Coluna 26
+Formato de Valor incorrecto: <Worksheet "Mar\xe7o 1868"> Dia: 1 Hora :15 Coluna 25
+Formato de Valor incorrecto: <Worksheet "Mar\xe7o 1868"> Dia: 1 Hora :15 Coluna 26
+Formato de Valor incorrecto: <Worksheet "Mar\xe7o 1868"> Dia: 2 Hora :15 Coluna 25
+Formato de Valor incorrecto: <Worksheet "Mar\xe7o 1868"> Dia: 2 Hora :15 Coluna 26
+Formato de Valor incorrecto: <Worksheet "Mar\xe7o 1868"> Dia: 3 Hora :15 Coluna 25
+Formato de Valor incorrecto: <Worksheet "Mar\xe7o 1868"> Dia: 3 Hora :15 Coluna 26
+Formato de Valor incorrecto: <Worksheet "Mar\xe7o 1868"> Dia: 4 Hora :15 Coluna 25
+Formato de Valor incorrecto: <Worksheet "Mar\xe7o 1868"> Dia: 4 Hora :15 Coluna 26
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 181.7 - <Worksheet "Mar\xe7o 1868"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 179.5 - <Worksheet "Mar\xe7o 1868"> Dia: 9
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 235.0 - <Worksheet "Mar\xe7o 1868"> Dia: 10
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 225.6 - <Worksheet "Mar\xe7o 1868"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 256.4 - <Worksheet "Mar\xe7o 1868"> Dia: 12
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 189.9 - <Worksheet "Mar\xe7o 1868"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 174.8 - <Worksheet "Mar\xe7o 1868"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 252.8 - <Worksheet "Mar\xe7o 1868"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 313.0 - <Worksheet "Mar\xe7o 1868"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 376.4 - <Worksheet "Mar\xe7o 1868"> Dia: 19
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 216.9 - <Worksheet "Mar\xe7o 1868"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 204.0 - <Worksheet "Mar\xe7o 1868"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 240.9 - <Worksheet "Mar\xe7o 1868"> Dia: 24
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 172.7 - <Worksheet "Mar\xe7o 1868"> Dia: 25
+Valor Suspeito Pressao (Media): 557.28 - <Worksheet "Mar\xe7o 1868"> Dia: 26
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 275.2 - <Worksheet "Mar\xe7o 1868"> Dia: 26
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 273.7 - <Worksheet "Mar\xe7o 1868"> Dia: 27
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 244.3 - <Worksheet "Mar\xe7o 1868"> Dia: 28
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 353.5 - <Worksheet "Mar\xe7o 1868"> Dia: 29
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 244.6 - <Worksheet "Mar\xe7o 1868"> Dia: 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 325.9 - <Worksheet "Mar\xe7o 1868"> Dia: 31
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 514.4 - <Worksheet "Abril 1868"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 229.2 - <Worksheet "Abril 1868"> Dia: 9
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 374.3 - <Worksheet "Abril 1868"> Dia: 10
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 172.0 - <Worksheet "Abril 1868"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 323.0 - <Worksheet "Abril 1868"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 270.6 - <Worksheet "Abril 1868"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 284.5 - <Worksheet "Abril 1868"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 219.5 - <Worksheet "Abril 1868"> Dia: 17
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 266.6 - <Worksheet "Abril 1868"> Dia: 19
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 446.0 - <Worksheet "Abril 1868"> Dia: 20
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 180.4 - <Worksheet "Abril 1868"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 248.7 - <Worksheet "Abril 1868"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 250.9 - <Worksheet "Abril 1868"> Dia: 23
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 444.1 - <Worksheet "Abril 1868"> Dia: 24
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 337.6 - <Worksheet "Abril 1868"> Dia: 26
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 239.4 - <Worksheet "Abril 1868"> Dia: 27
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 157.4 - <Worksheet "Maio 1868"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 171.7 - <Worksheet "Maio 1868"> Dia: 6
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 281.4 - <Worksheet "Maio 1868"> Dia: 7
+Valor Suspeito Tensao Vapor (15H): 18.34 - <Worksheet "Maio 1868"> Dia: 9
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 178.1 - <Worksheet "Maio 1868"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 157.0 - <Worksheet "Maio 1868"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 156.1 - <Worksheet "Maio 1868"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 195.8 - <Worksheet "Maio 1868"> Dia: 20
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 156.4 - <Worksheet "Maio 1868"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 174.8 - <Worksheet "Junho 1868"> Dia: 2
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 222.4 - <Worksheet "Junho 1868"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 191.2 - <Worksheet "Junho 1868"> Dia: 6
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 247.4 - <Worksheet "Junho 1868"> Dia: 8
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 399.5 - <Worksheet "Junho 1868"> Dia: 9
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 344.7 - <Worksheet "Junho 1868"> Dia: 10
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 229.5 - <Worksheet "Junho 1868"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 231.4 - <Worksheet "Junho 1868"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 237.2 - <Worksheet "Junho 1868"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 288.4 - <Worksheet "Junho 1868"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 163.9 - <Worksheet "Junho 1868"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 189.0 - <Worksheet "Junho 1868"> Dia: 17
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 202.6 - <Worksheet "Junho 1868"> Dia: 19
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 229.9 - <Worksheet "Junho 1868"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 152.4 - <Worksheet "Junho 1868"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 151.7 - <Worksheet "Junho 1868"> Dia: 23
+Valor Suspeito Tensao Vapor (15H): 17.26 - <Worksheet "Junho 1868"> Dia: 24
+Valor Suspeito Tensao Vapor (12H): 17.76 - <Worksheet "Junho 1868"> Dia: 25
+Valor Suspeito Tensao Vapor (15H): 18.06 - <Worksheet "Junho 1868"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 203.0 - <Worksheet "Junho 1868"> Dia: 26
+Valor Suspeito Tensao Vapor (12H): 17.45 - <Worksheet "Junho 1868"> Dia: 27
+Valor Suspeito Tensao Vapor (15H): 18.77 - <Worksheet "Junho 1868"> Dia: 27
+Valor Suspeito Tensao Vapor (12H): 17.0 - <Worksheet "Junho 1868"> Dia: 28
+Valor Suspeito Tensao Vapor (15H): 19.99 - <Worksheet "Junho 1868"> Dia: 28
+Valor Suspeito Tensao Vapor (9H): 18.94 - <Worksheet "Junho 1868"> Dia: 29
+Valor Suspeito Tensao Vapor (12H): 19.93 - <Worksheet "Junho 1868"> Dia: 29
+Valor Suspeito Tensao Vapor (15H): 17.56 - <Worksheet "Junho 1868"> Dia: 30
+Valor Suspeito Tensao Vapor (15H): 17.36 - <Worksheet "Julho 1868"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 180.6 - <Worksheet "Julho 1868"> Dia: 1
+Valor Suspeito Tensao Vapor (9H): 19.94 - <Worksheet "Julho 1868"> Dia: 7
+Valor Suspeito Tensao Vapor (15H): 17.83 - <Worksheet "Julho 1868"> Dia: 7
+Valor Suspeito Tensao Vapor (9H): 20.98 - <Worksheet "Julho 1868"> Dia: 8
+Valor Suspeito Tensao Vapor (15H): 17.93 - <Worksheet "Julho 1868"> Dia: 8
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 166.6 - <Worksheet "Julho 1868"> Dia: 13
+Valor Suspeito Tensao Vapor (15H): 17.6 - <Worksheet "Julho 1868"> Dia: 14
+Valor Suspeito Tensao Vapor (12H): 17.14 - <Worksheet "Julho 1868"> Dia: 19
+Valor Suspeito Tensao Vapor (15H): 17.45 - <Worksheet "Julho 1868"> Dia: 19
+Valor Suspeito Tensao Vapor (15H): 17.69 - <Worksheet "Julho 1868"> Dia: 20
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 172.0 - <Worksheet "Julho 1868"> Dia: 26
+Valor Suspeito Tensao Vapor (15H): 17.02 - <Worksheet "Julho 1868"> Dia: 27
+Valor Suspeito Tensao Vapor (12H): 17.32 - <Worksheet "Julho 1868"> Dia: 29
+Valor Suspeito Tensao Vapor (15H): 18.35 - <Worksheet "Julho 1868"> Dia: 29
+Valor Suspeito Tensao Vapor (12H): 18.4 - <Worksheet "Julho 1868"> Dia: 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 291.1 - <Worksheet "Julho 1868"> Dia: 31
+Valor Suspeito Tensao Vapor (12H): 17.56 - <Worksheet "Agosto 1868"> Dia: 1
+Valor Suspeito Tensao Vapor (15H): 17.25 - <Worksheet "Agosto 1868"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 162.2 - <Worksheet "Agosto 1868"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 206.3 - <Worksheet "Agosto 1868"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 246.7 - <Worksheet "Agosto 1868"> Dia: 5
+Valor Suspeito Tensao Vapor (15H): 17.62 - <Worksheet "Agosto 1868"> Dia: 7
+Valor Suspeito Tensao Vapor (9H): 17.75 - <Worksheet "Agosto 1868"> Dia: 9
+Valor Suspeito Tensao Vapor (12H): 17.62 - <Worksheet "Agosto 1868"> Dia: 9
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 151.5 - <Worksheet "Agosto 1868"> Dia: 12
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 173.3 - <Worksheet "Agosto 1868"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 160.0 - <Worksheet "Agosto 1868"> Dia: 19
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 165.8 - <Worksheet "Agosto 1868"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 156.0 - <Worksheet "Agosto 1868"> Dia: 27
+Valor Suspeito Tensao Vapor (15H): 17.04 - <Worksheet "Agosto 1868"> Dia: 28
+Valor Suspeito Tensao Vapor (12H): 18.17 - <Worksheet "Agosto 1868"> Dia: 29
+Valor Suspeito Tensao Vapor (15H): 17.09 - <Worksheet "Agosto 1868"> Dia: 29
+Valor Suspeito Tensao Vapor (9H): 17.01 - <Worksheet "Agosto 1868"> Dia: 30
+Valor Suspeito Tensao Vapor (15H): 17.28 - <Worksheet "Agosto 1868"> Dia: 30
+Valor Suspeito Tensao Vapor (12H): 17.06 - <Worksheet "Agosto 1868"> Dia: 31
+Valor Suspeito Tensao Vapor (15H): 18.56 - <Worksheet "Agosto 1868"> Dia: 31
+Valor Suspeito Tensao Vapor (15H): 17.18 - <Worksheet "Setembro 1868"> Dia: 3
+Valor Suspeito Tensao Vapor (15H): 18.13 - <Worksheet "Setembro 1868"> Dia: 4
+Valor Suspeito Tensao Vapor (15H): 17.39 - <Worksheet "Setembro 1868"> Dia: 5
+Valor Suspeito Tensao Vapor (15H): 17.39 - <Worksheet "Setembro 1868"> Dia: 6
+Valor Suspeito Tensao Vapor (12H): 17.87 - <Worksheet "Setembro 1868"> Dia: 7
+Valor Suspeito Tensao Vapor (9H): 17.19 - <Worksheet "Setembro 1868"> Dia: 8
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 926.9 - <Worksheet "Setembro 1868"> Dia: 19
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 186.9 - <Worksheet "Setembro 1868"> Dia: 20
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 351.5 - <Worksheet "Setembro 1868"> Dia: 24
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 278.3 - <Worksheet "Setembro 1868"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 323.2 - <Worksheet "Setembro 1868"> Dia: 26
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 204.7 - <Worksheet "Setembro 1868"> Dia: 27
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 440.7 - <Worksheet "Setembro 1868"> Dia: 28
+Valor Suspeito Pluvimetro (15H): 55.6 - <Worksheet "Setembro 1868"> Dia: 29
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 361.1 - <Worksheet "Setembro 1868"> Dia: 29
+Valor Suspeito Tensao Vapor (15H): 19.22 - <Worksheet "Outubro 1868"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 151.5 - <Worksheet "Outubro 1868"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 173.6 - <Worksheet "Outubro 1868"> Dia: 12
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 172.4 - <Worksheet "Outubro 1868"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 180.6 - <Worksheet "Outubro 1868"> Dia: 17
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 215.1 - <Worksheet "Outubro 1868"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 160.5 - <Worksheet "Outubro 1868"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 256.7 - <Worksheet "Outubro 1868"> Dia: 28
+Valor Suspeito Pressao (Media): 961.94 - <Worksheet "Outubro 1868"> Dia: 31
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 256.9 - <Worksheet "Novembro 1868"> Dia: 6
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 212.4 - <Worksheet "Novembro 1868"> Dia: 7
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 260.9 - <Worksheet "Novembro 1868"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 270.8 - <Worksheet "Novembro 1868"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 223.8 - <Worksheet "Novembro 1868"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 347.7 - <Worksheet "Novembro 1868"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 261.0 - <Worksheet "Novembro 1868"> Dia: 17
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 188.7 - <Worksheet "Novembro 1868"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 421.3 - <Worksheet "Novembro 1868"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 268.8 - <Worksheet "Novembro 1868"> Dia: 23
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 180.2 - <Worksheet "Novembro 1868"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 160.8 - <Worksheet "Novembro 1868"> Dia: 28
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 212.6 - <Worksheet "Novembro 1868"> Dia: 29
+Valor Suspeito Pluvimetro (15H): 64.0 - <Worksheet "Novembro 1868"> Dia: 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 248.4 - <Worksheet "Novembro 1868"> Dia: 30
+1868/REGISTOS METEOROLOGICOS 1868.xlsx
+----------------------------

@@ -1,0 +1,1656 @@
+['REGISTOS METEOROLOGICOS 1890.xlsx', 'REGISTOS METEOROLOGICOS 1891.xlsx', 'REGISTOS METEOROLOGICOS 1896.xlsx', 'REGISTOS METEOROLOGICOS 1892.xlsx', 'REGISTOS METEOROLOGICOS 1897.xlsx', 'REGISTOS METEOROLOGICOS 1894.xlsx', 'REGISTOS METEOROLOGICOS 1895.xlsx', 'REGISTOS METEOROLOGICOS 1893.xlsx']
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 152.0 - <Worksheet "Janeiro 1890"> Dia: 2
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 212.3 - <Worksheet "Janeiro 1890"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 164.5 - <Worksheet "Janeiro 1890"> Dia: 6
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 165.1 - <Worksheet "Janeiro 1890"> Dia: 8
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 173.0 - <Worksheet "Janeiro 1890"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 247.7 - <Worksheet "Janeiro 1890"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 283.8 - <Worksheet "Janeiro 1890"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 221.4 - <Worksheet "Janeiro 1890"> Dia: 17
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 192.3 - <Worksheet "Janeiro 1890"> Dia: 20
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 189.7 - <Worksheet "Janeiro 1890"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 503.2 - <Worksheet "Janeiro 1890"> Dia: 22
+Valor Suspeito Velocidade Horaria  do Vento (15H): 20.9 - <Worksheet "Janeiro 1890"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 498.9 - <Worksheet "Janeiro 1890"> Dia: 23
+Valor Suspeito Velocidade Horaria  do Vento (15H): 20.7 - <Worksheet "Janeiro 1890"> Dia: 23
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 401.9 - <Worksheet "Janeiro 1890"> Dia: 24
+Valor Suspeito Velocidade Horaria  do Vento (15H): 16.7 - <Worksheet "Janeiro 1890"> Dia: 24
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 169.4 - <Worksheet "Janeiro 1890"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 209.8 - <Worksheet "Janeiro 1890"> Dia: 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 166.9 - <Worksheet "Fevereiro 1890"> Dia: 12
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 196.1 - <Worksheet "Fevereiro 1890"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 428.6 - <Worksheet "Fevereiro 1890"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 169.7 - <Worksheet "Fevereiro 1890"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 188.8 - <Worksheet "Fevereiro 1890"> Dia: 23
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 310.2 - <Worksheet "Fevereiro 1890"> Dia: 24
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 248.5 - <Worksheet "Fevereiro 1890"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 188.2 - <Worksheet "Fevereiro 1890"> Dia: 26
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 198.5 - <Worksheet "Fevereiro 1890"> Dia: 27
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 286.9 - <Worksheet "Fevereiro 1890"> Dia: 28
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 208.6 - <Worksheet "Mar\xe7o 1890"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 332.7 - <Worksheet "Mar\xe7o 1890"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 218.3 - <Worksheet "Mar\xe7o 1890"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 162.6 - <Worksheet "Mar\xe7o 1890"> Dia: 7
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 279.6 - <Worksheet "Mar\xe7o 1890"> Dia: 9
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 268.1 - <Worksheet "Mar\xe7o 1890"> Dia: 10
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 221.3 - <Worksheet "Mar\xe7o 1890"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 163.7 - <Worksheet "Mar\xe7o 1890"> Dia: 12
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 329.4 - <Worksheet "Mar\xe7o 1890"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 219.2 - <Worksheet "Mar\xe7o 1890"> Dia: 17
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 195.8 - <Worksheet "Mar\xe7o 1890"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 253.0 - <Worksheet "Mar\xe7o 1890"> Dia: 19
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 375.4 - <Worksheet "Mar\xe7o 1890"> Dia: 21
+Valor Suspeito Velocidade Horaria  do Vento (15H): 15.6 - <Worksheet "Mar\xe7o 1890"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 202.2 - <Worksheet "Mar\xe7o 1890"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 363.0 - <Worksheet "Mar\xe7o 1890"> Dia: 24
+Valor Suspeito Velocidade Horaria  do Vento (15H): 15.1 - <Worksheet "Mar\xe7o 1890"> Dia: 24
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 254.0 - <Worksheet "Mar\xe7o 1890"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 154.4 - <Worksheet "Abril 1890"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 165.9 - <Worksheet "Abril 1890"> Dia: 8
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 255.2 - <Worksheet "Abril 1890"> Dia: 9
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 261.4 - <Worksheet "Abril 1890"> Dia: 10
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 272.6 - <Worksheet "Abril 1890"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 290.0 - <Worksheet "Abril 1890"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 255.1 - <Worksheet "Abril 1890"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 171.2 - <Worksheet "Abril 1890"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 221.0 - <Worksheet "Abril 1890"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 246.0 - <Worksheet "Maio 1890"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 221.1 - <Worksheet "Maio 1890"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 321.6 - <Worksheet "Maio 1890"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 160.2 - <Worksheet "Maio 1890"> Dia: 7
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 341.6 - <Worksheet "Maio 1890"> Dia: 8
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 262.6 - <Worksheet "Maio 1890"> Dia: 9
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 246.6 - <Worksheet "Maio 1890"> Dia: 12
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 291.5 - <Worksheet "Maio 1890"> Dia: 27
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 223.0 - <Worksheet "Maio 1890"> Dia: 28
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 171.5 - <Worksheet "Maio 1890"> Dia: 29
+Valor Suspeito Pressao (9H): 462.01 - <Worksheet "Junho 1890"> Dia: 6
+Valor Suspeito Tensao Vapor (15H): 17.69 - <Worksheet "Junho 1890"> Dia: 6
+Valor Suspeito Tensao Vapor (12H): 20.47 - <Worksheet "Junho 1890"> Dia: 7
+Valor Suspeito Tensao Vapor (15H): 18.0 - <Worksheet "Junho 1890"> Dia: 7
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 195.2 - <Worksheet "Junho 1890"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 210.5 - <Worksheet "Junho 1890"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 187.0 - <Worksheet "Junho 1890"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 151.1 - <Worksheet "Junho 1890"> Dia: 16
+Valor Suspeito Tensao Vapor (15H): 17.2 - <Worksheet "Junho 1890"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 232.6 - <Worksheet "Julho 1890"> Dia: 2
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 188.4 - <Worksheet "Julho 1890"> Dia: 6
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 192.6 - <Worksheet "Julho 1890"> Dia: 7
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 241.8 - <Worksheet "Julho 1890"> Dia: 12
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 168.2 - <Worksheet "Julho 1890"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 223.6 - <Worksheet "Julho 1890"> Dia: 20
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 231.4 - <Worksheet "Julho 1890"> Dia: 21
+Valor Suspeito Tensao Vapor (15H): 18.26 - <Worksheet "Julho 1890"> Dia: 22
+Valor Suspeito Tensao Vapor (15H): 18.4 - <Worksheet "Julho 1890"> Dia: 23
+Valor Suspeito Tensao Vapor (9H): 19.31 - <Worksheet "Julho 1890"> Dia: 24
+Valor Suspeito Tensao Vapor (12H): 18.85 - <Worksheet "Julho 1890"> Dia: 24
+Valor Suspeito Tensao Vapor (15H): 18.82 - <Worksheet "Julho 1890"> Dia: 24
+Valor Suspeito Tensao Vapor (9H): 17.08 - <Worksheet "Julho 1890"> Dia: 25
+Valor Suspeito Tensao Vapor (12H): 17.56 - <Worksheet "Julho 1890"> Dia: 25
+Valor Suspeito Tensao Vapor (15H): 20.54 - <Worksheet "Julho 1890"> Dia: 25
+Valor Suspeito Tensao Vapor (12H): 17.43 - <Worksheet "Julho 1890"> Dia: 26
+Valor Suspeito Tensao Vapor (12H): 18.68 - <Worksheet "Agosto 1890"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 210.7 - <Worksheet "Agosto 1890"> Dia: 3
+Valor Suspeito Tensao Vapor (9H): 17.5 - <Worksheet "Agosto 1890"> Dia: 4
+Valor Suspeito Tensao Vapor (15H): 18.19 - <Worksheet "Agosto 1890"> Dia: 4
+Valor Suspeito Tensao Vapor (9H): 17.63 - <Worksheet "Agosto 1890"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 150.2 - <Worksheet "Agosto 1890"> Dia: 9
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 200.4 - <Worksheet "Agosto 1890"> Dia: 10
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 168.4 - <Worksheet "Agosto 1890"> Dia: 14
+Valor Suspeito Tensao Vapor (15H): 19.17 - <Worksheet "Agosto 1890"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 166.7 - <Worksheet "Agosto 1890"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 173.5 - <Worksheet "Agosto 1890"> Dia: 24
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 154.3 - <Worksheet "Agosto 1890"> Dia: 30
+Valor Suspeito Tensao Vapor (15H): 20.76 - <Worksheet "Setembro 1890"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 247.3 - <Worksheet "Setembro 1890"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 159.3 - <Worksheet "Setembro 1890"> Dia: 2
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 184.7 - <Worksheet "Setembro 1890"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 205.1 - <Worksheet "Setembro 1890"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 279.2 - <Worksheet "Setembro 1890"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 297.5 - <Worksheet "Setembro 1890"> Dia: 6
+Valor Suspeito Tensao Vapor (12H): 17.13 - <Worksheet "Setembro 1890"> Dia: 7
+Valor Suspeito Tensao Vapor (15H): 123.89 - <Worksheet "Setembro 1890"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 154.0 - <Worksheet "Setembro 1890"> Dia: 17
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 201.0 - <Worksheet "Setembro 1890"> Dia: 20
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 332.0 - <Worksheet "Setembro 1890"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 178.9 - <Worksheet "Setembro 1890"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 237.5 - <Worksheet "Setembro 1890"> Dia: 26
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 286.0 - <Worksheet "Setembro 1890"> Dia: 27
+Valor Suspeito Tensao Vapor (15H): 17.13 - <Worksheet "Setembro 1890"> Dia: 28
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 195.3 - <Worksheet "Setembro 1890"> Dia: 28
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 182.2 - <Worksheet "Setembro 1890"> Dia: 29
+Valor Suspeito Tensao Vapor (15H): 17.74 - <Worksheet "Outubro 1890"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 154.8 - <Worksheet "Outubro 1890"> Dia: 3
+Valor Suspeito de Quantidade de Nuvens (12H): 30.0 - <Worksheet "Outubro 1890"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 195.0 - <Worksheet "Outubro 1890"> Dia: 12
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 174.1 - <Worksheet "Outubro 1890"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 172.7 - <Worksheet "Outubro 1890"> Dia: 19
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 337.8 - <Worksheet "Outubro 1890"> Dia: 20
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 356.5 - <Worksheet "Outubro 1890"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 218.1 - <Worksheet "Outubro 1890"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 284.9 - <Worksheet "Outubro 1890"> Dia: 23
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 342.9 - <Worksheet "Outubro 1890"> Dia: 24
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 157.4 - <Worksheet "Outubro 1890"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 250.6 - <Worksheet "Outubro 1890"> Dia: 27
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 287.5 - <Worksheet "Outubro 1890"> Dia: 28
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 154.0 - <Worksheet "Outubro 1890"> Dia: 29
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 259.6 - <Worksheet "Novembro 1890"> Dia: 7
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 270.6 - <Worksheet "Novembro 1890"> Dia: 11
+Formato de Valor incorrecto: <Worksheet "Novembro 1890"> Dia: 13 Hora :15 Coluna 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 215.4 - <Worksheet "Novembro 1890"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 187.2 - <Worksheet "Novembro 1890"> Dia: 17
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 168.4 - <Worksheet "Novembro 1890"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 194.4 - <Worksheet "Novembro 1890"> Dia: 19
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 173.0 - <Worksheet "Novembro 1890"> Dia: 20
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 198.8 - <Worksheet "Novembro 1890"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 190.2 - <Worksheet "Novembro 1890"> Dia: 27
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 172.0 - <Worksheet "Novembro 1890"> Dia: 28
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 167.8 - <Worksheet "Dezembro 1890"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 183.7 - <Worksheet "Dezembro 1890"> Dia: 2
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 243.2 - <Worksheet "Dezembro 1890"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 171.5 - <Worksheet "Dezembro 1890"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 185.6 - <Worksheet "Dezembro 1890"> Dia: 6
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 309.4 - <Worksheet "Dezembro 1890"> Dia: 7
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 283.5 - <Worksheet "Dezembro 1890"> Dia: 8
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 166.4 - <Worksheet "Dezembro 1890"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 155.8 - <Worksheet "Dezembro 1890"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 154.7 - <Worksheet "Dezembro 1890"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 165.2 - <Worksheet "Dezembro 1890"> Dia: 19
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 165.1 - <Worksheet "Dezembro 1890"> Dia: 20
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 202.7 - <Worksheet "Dezembro 1890"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 157.2 - <Worksheet "Dezembro 1890"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 212.6 - <Worksheet "Dezembro 1890"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 258.0 - <Worksheet "Dezembro 1890"> Dia: 26
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 174.3 - <Worksheet "Dezembro 1890"> Dia: 27
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 215.1 - <Worksheet "Dezembro 1890"> Dia: 29
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 265.2 - <Worksheet "Dezembro 1890"> Dia: 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 205.8 - <Worksheet "Dezembro 1890"> Dia: 31
+1890 - 1898/REGISTOS METEOROLOGICOS 1890.xlsx
+----------------------------
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 244.6 - <Worksheet "Janeiro 1891"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 186.1 - <Worksheet "Janeiro 1891"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 252.0 - <Worksheet "Janeiro 1891"> Dia: 6
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 312.8 - <Worksheet "Janeiro 1891"> Dia: 7
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 168.2 - <Worksheet "Janeiro 1891"> Dia: 8
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 197.6 - <Worksheet "Janeiro 1891"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 323.0 - <Worksheet "Janeiro 1891"> Dia: 12
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 166.1 - <Worksheet "Janeiro 1891"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 156.5 - <Worksheet "Janeiro 1891"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 175.0 - <Worksheet "Janeiro 1891"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 206.0 - <Worksheet "Janeiro 1891"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 179.8 - <Worksheet "Janeiro 1891"> Dia: 17
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 219.7 - <Worksheet "Janeiro 1891"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 153.6 - <Worksheet "Janeiro 1891"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 166.0 - <Worksheet "Janeiro 1891"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 269.5 - <Worksheet "Janeiro 1891"> Dia: 26
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 229.3 - <Worksheet "Janeiro 1891"> Dia: 27
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 162.2 - <Worksheet "Janeiro 1891"> Dia: 28
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 193.5 - <Worksheet "Janeiro 1891"> Dia: 29
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 284.9 - <Worksheet "Janeiro 1891"> Dia: 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 196.4 - <Worksheet "Janeiro 1891"> Dia: 31
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 173.2 - <Worksheet "Fevereiro 1891"> Dia: 2
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 299.5 - <Worksheet "Fevereiro 1891"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 200.7 - <Worksheet "Fevereiro 1891"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 164.0 - <Worksheet "Fevereiro 1891"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 277.6 - <Worksheet "Fevereiro 1891"> Dia: 6
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 194.3 - <Worksheet "Fevereiro 1891"> Dia: 7
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 160.7 - <Worksheet "Fevereiro 1891"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 202.6 - <Worksheet "Fevereiro 1891"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 294.1 - <Worksheet "Fevereiro 1891"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 191.2 - <Worksheet "Fevereiro 1891"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 167.7 - <Worksheet "Fevereiro 1891"> Dia: 23
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 196.4 - <Worksheet "Mar\xe7o 1891"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 238.0 - <Worksheet "Mar\xe7o 1891"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 447.8 - <Worksheet "Mar\xe7o 1891"> Dia: 4
+Valor Suspeito Velocidade Horaria  do Vento (15H): 18.6 - <Worksheet "Mar\xe7o 1891"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 368.7 - <Worksheet "Mar\xe7o 1891"> Dia: 5
+Valor Suspeito Velocidade Horaria  do Vento (15H): 15.3 - <Worksheet "Mar\xe7o 1891"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 192.6 - <Worksheet "Mar\xe7o 1891"> Dia: 6
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 157.5 - <Worksheet "Mar\xe7o 1891"> Dia: 7
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 411.9 - <Worksheet "Mar\xe7o 1891"> Dia: 8
+Valor Suspeito Velocidade Horaria  do Vento (15H): 17.1 - <Worksheet "Mar\xe7o 1891"> Dia: 8
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 459.5 - <Worksheet "Mar\xe7o 1891"> Dia: 9
+Valor Suspeito Velocidade Horaria  do Vento (15H): 19.1 - <Worksheet "Mar\xe7o 1891"> Dia: 9
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 272.8 - <Worksheet "Mar\xe7o 1891"> Dia: 10
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 170.9 - <Worksheet "Mar\xe7o 1891"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 477.6 - <Worksheet "Mar\xe7o 1891"> Dia: 12
+Valor Suspeito Velocidade Horaria  do Vento (15H): 19.9 - <Worksheet "Mar\xe7o 1891"> Dia: 12
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 211.3 - <Worksheet "Mar\xe7o 1891"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 236.9 - <Worksheet "Mar\xe7o 1891"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 385.0 - <Worksheet "Mar\xe7o 1891"> Dia: 16
+Valor Suspeito Velocidade Horaria  do Vento (15H): 16.0 - <Worksheet "Mar\xe7o 1891"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 280.7 - <Worksheet "Mar\xe7o 1891"> Dia: 17
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 171.1 - <Worksheet "Mar\xe7o 1891"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 195.0 - <Worksheet "Mar\xe7o 1891"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 244.5 - <Worksheet "Mar\xe7o 1891"> Dia: 23
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 170.1 - <Worksheet "Mar\xe7o 1891"> Dia: 24
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 161.1 - <Worksheet "Mar\xe7o 1891"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 272.4 - <Worksheet "Mar\xe7o 1891"> Dia: 29
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 161.6 - <Worksheet "Mar\xe7o 1891"> Dia: 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 151.8 - <Worksheet "Abril 1891"> Dia: 2
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 187.0 - <Worksheet "Abril 1891"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 179.0 - <Worksheet "Abril 1891"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 222.7 - <Worksheet "Abril 1891"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 365.2 - <Worksheet "Abril 1891"> Dia: 9
+Valor Suspeito Velocidade Horaria  do Vento (15H): 15.2 - <Worksheet "Abril 1891"> Dia: 9
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 262.0 - <Worksheet "Abril 1891"> Dia: 10
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 174.5 - <Worksheet "Abril 1891"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 153.8 - <Worksheet "Abril 1891"> Dia: 12
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 169.3 - <Worksheet "Abril 1891"> Dia: 14
+Formato de Valor incorrecto: <Worksheet "Abril 1891"> Dia: 15 Hora :15 Coluna 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 247.0 - <Worksheet "Abril 1891"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 193.1 - <Worksheet "Abril 1891"> Dia: 17
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 161.6 - <Worksheet "Abril 1891"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 157.8 - <Worksheet "Abril 1891"> Dia: 19
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 150.7 - <Worksheet "Abril 1891"> Dia: 20
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 230.7 - <Worksheet "Abril 1891"> Dia: 23
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 183.5 - <Worksheet "Abril 1891"> Dia: 24
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 182.1 - <Worksheet "Abril 1891"> Dia: 26
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 249.0 - <Worksheet "Maio 1891"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 226.4 - <Worksheet "Maio 1891"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 158.8 - <Worksheet "Maio 1891"> Dia: 7
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 227.1 - <Worksheet "Maio 1891"> Dia: 8
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 312.1 - <Worksheet "Maio 1891"> Dia: 9
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 275.2 - <Worksheet "Maio 1891"> Dia: 10
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 187.8 - <Worksheet "Maio 1891"> Dia: 11
+Valor Suspeito Tensao Vapor (12H): 18.79 - <Worksheet "Maio 1891"> Dia: 12
+Valor Suspeito Tensao Vapor (15H): 19.53 - <Worksheet "Maio 1891"> Dia: 12
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 201.0 - <Worksheet "Maio 1891"> Dia: 12
+Valor Suspeito Tensao Vapor (12H): 19.74 - <Worksheet "Maio 1891"> Dia: 13
+Valor Suspeito Tensao Vapor (15H): 20.55 - <Worksheet "Maio 1891"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 194.8 - <Worksheet "Maio 1891"> Dia: 13
+Valor Suspeito Tensao Vapor (9H): 18.18 - <Worksheet "Maio 1891"> Dia: 14
+Valor Suspeito Tensao Vapor (12H): 22.88 - <Worksheet "Maio 1891"> Dia: 14
+Valor Suspeito Tensao Vapor (15H): 21.97 - <Worksheet "Maio 1891"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 234.6 - <Worksheet "Maio 1891"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 349.6 - <Worksheet "Maio 1891"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 343.0 - <Worksheet "Maio 1891"> Dia: 17
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 247.9 - <Worksheet "Maio 1891"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 268.9 - <Worksheet "Maio 1891"> Dia: 19
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 289.8 - <Worksheet "Maio 1891"> Dia: 20
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 300.8 - <Worksheet "Maio 1891"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 285.3 - <Worksheet "Maio 1891"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 180.9 - <Worksheet "Maio 1891"> Dia: 23
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 172.5 - <Worksheet "Maio 1891"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 175.2 - <Worksheet "Maio 1891"> Dia: 28
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 153.1 - <Worksheet "Maio 1891"> Dia: 29
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 267.4 - <Worksheet "Maio 1891"> Dia: 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 325.2 - <Worksheet "Maio 1891"> Dia: 31
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 242.1 - <Worksheet "Junho 1891"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 182.7 - <Worksheet "Junho 1891"> Dia: 2
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 502.4 - <Worksheet "Junho 1891"> Dia: 3
+Valor Suspeito Velocidade Horaria  do Vento (15H): 20.9 - <Worksheet "Junho 1891"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 316.9 - <Worksheet "Junho 1891"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 206.8 - <Worksheet "Junho 1891"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 242.2 - <Worksheet "Junho 1891"> Dia: 6
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 270.8 - <Worksheet "Junho 1891"> Dia: 7
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 198.2 - <Worksheet "Junho 1891"> Dia: 9
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 175.7 - <Worksheet "Junho 1891"> Dia: 10
+Valor Suspeito Tensao Vapor (15H): 17.56 - <Worksheet "Junho 1891"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 259.7 - <Worksheet "Junho 1891"> Dia: 13
+Valor Suspeito Tensao Vapor (12H): 22.53 - <Worksheet "Junho 1891"> Dia: 14
+Valor Suspeito Tensao Vapor (15H): 20.34 - <Worksheet "Junho 1891"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 209.1 - <Worksheet "Junho 1891"> Dia: 14
+Valor Suspeito Tensao Vapor (9H): 17.13 - <Worksheet "Junho 1891"> Dia: 15
+Valor Suspeito Tensao Vapor (12H): 19.8 - <Worksheet "Junho 1891"> Dia: 15
+Valor Suspeito Tensao Vapor (15H): 19.8 - <Worksheet "Junho 1891"> Dia: 15
+Valor Suspeito Tensao Vapor (15H): 21.35 - <Worksheet "Junho 1891"> Dia: 16
+Valor Suspeito Tensao Vapor (12H): 19.93 - <Worksheet "Junho 1891"> Dia: 17
+Valor Suspeito Tensao Vapor (15H): 23.89 - <Worksheet "Junho 1891"> Dia: 17
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 283.0 - <Worksheet "Junho 1891"> Dia: 17
+Valor Suspeito Tensao Vapor (9H): 20.12 - <Worksheet "Junho 1891"> Dia: 18
+Valor Suspeito Tensao Vapor (12H): 21.9 - <Worksheet "Junho 1891"> Dia: 18
+Valor Suspeito Tensao Vapor (15H): 17.51 - <Worksheet "Junho 1891"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 153.0 - <Worksheet "Junho 1891"> Dia: 18
+Valor Suspeito Tensao Vapor (9H): 22.05 - <Worksheet "Junho 1891"> Dia: 19
+Valor Suspeito Tensao Vapor (12H): 23.08 - <Worksheet "Junho 1891"> Dia: 19
+Valor Suspeito Tensao Vapor (15H): 24.46 - <Worksheet "Junho 1891"> Dia: 19
+Valor Suspeito Tensao Vapor (9H): 22.44 - <Worksheet "Junho 1891"> Dia: 20
+Valor Suspeito Tensao Vapor (12H): 24.8 - <Worksheet "Junho 1891"> Dia: 20
+Valor Suspeito Tensao Vapor (15H): 24.35 - <Worksheet "Junho 1891"> Dia: 20
+Valor Suspeito Tensao Vapor (9H): 20.95 - <Worksheet "Junho 1891"> Dia: 21
+Valor Suspeito Tensao Vapor (12H): 21.03 - <Worksheet "Junho 1891"> Dia: 21
+Valor Suspeito Tensao Vapor (15H): 19.98 - <Worksheet "Junho 1891"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 152.4 - <Worksheet "Junho 1891"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 197.3 - <Worksheet "Junho 1891"> Dia: 26
+Celula vazia: <Worksheet "Julho 1891"> Dia: 1 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Julho 1891"> Dia: 1 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Julho 1891"> Dia: 1 Hora 12 Coluna 27
+Celula vazia: <Worksheet "Julho 1891"> Dia: 2 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Julho 1891"> Dia: 2 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Julho 1891"> Dia: 2 Hora 12 Coluna 27
+Celula vazia: <Worksheet "Julho 1891"> Dia: 3 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Julho 1891"> Dia: 3 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Julho 1891"> Dia: 3 Hora 12 Coluna 27
+Valor Suspeito Tensao Vapor (12H): 17.21 - <Worksheet "Julho 1891"> Dia: 4
+Valor Suspeito Tensao Vapor (15H): 17.2 - <Worksheet "Julho 1891"> Dia: 4
+Celula vazia: <Worksheet "Julho 1891"> Dia: 4 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Julho 1891"> Dia: 4 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Julho 1891"> Dia: 4 Hora 12 Coluna 27
+Valor Suspeito Tensao Vapor (12H): 18.61 - <Worksheet "Julho 1891"> Dia: 5
+Celula vazia: <Worksheet "Julho 1891"> Dia: 5 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Julho 1891"> Dia: 5 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Julho 1891"> Dia: 5 Hora 12 Coluna 27
+Valor Suspeito Tensao Vapor (9H): 18.98 - <Worksheet "Julho 1891"> Dia: 6
+Valor Suspeito Tensao Vapor (12H): 22.39 - <Worksheet "Julho 1891"> Dia: 6
+Valor Suspeito Tensao Vapor (15H): 23.84 - <Worksheet "Julho 1891"> Dia: 6
+Celula vazia: <Worksheet "Julho 1891"> Dia: 6 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Julho 1891"> Dia: 6 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Julho 1891"> Dia: 6 Hora 12 Coluna 27
+Valor Suspeito Tensao Vapor (9H): 23.5 - <Worksheet "Julho 1891"> Dia: 7
+Valor Suspeito Tensao Vapor (12H): 29.93 - <Worksheet "Julho 1891"> Dia: 7
+Valor Suspeito Tensao Vapor (15H): 26.11 - <Worksheet "Julho 1891"> Dia: 7
+Celula vazia: <Worksheet "Julho 1891"> Dia: 7 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Julho 1891"> Dia: 7 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Julho 1891"> Dia: 7 Hora 12 Coluna 27
+Valor Suspeito Tensao Vapor (9H): 23.13 - <Worksheet "Julho 1891"> Dia: 8
+Valor Suspeito Tensao Vapor (12H): 28.27 - <Worksheet "Julho 1891"> Dia: 8
+Valor Suspeito Tensao Vapor (15H): 28.69 - <Worksheet "Julho 1891"> Dia: 8
+Celula vazia: <Worksheet "Julho 1891"> Dia: 8 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Julho 1891"> Dia: 8 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Julho 1891"> Dia: 8 Hora 12 Coluna 27
+Valor Suspeito Tensao Vapor (12H): 17.51 - <Worksheet "Julho 1891"> Dia: 9
+Valor Suspeito Tensao Vapor (15H): 18.91 - <Worksheet "Julho 1891"> Dia: 9
+Celula vazia: <Worksheet "Julho 1891"> Dia: 9 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Julho 1891"> Dia: 9 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Julho 1891"> Dia: 9 Hora 12 Coluna 27
+Celula vazia: <Worksheet "Julho 1891"> Dia: 10 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Julho 1891"> Dia: 10 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Julho 1891"> Dia: 10 Hora 12 Coluna 27
+Celula vazia: <Worksheet "Julho 1891"> Dia: 11 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Julho 1891"> Dia: 11 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Julho 1891"> Dia: 11 Hora 12 Coluna 27
+Valor Suspeito Tensao Vapor (15H): 19.59 - <Worksheet "Julho 1891"> Dia: 12
+Celula vazia: <Worksheet "Julho 1891"> Dia: 12 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Julho 1891"> Dia: 12 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Julho 1891"> Dia: 12 Hora 12 Coluna 27
+Valor Suspeito Tensao Vapor (12H): 20.98 - <Worksheet "Julho 1891"> Dia: 13
+Valor Suspeito Tensao Vapor (15H): 17.75 - <Worksheet "Julho 1891"> Dia: 13
+Celula vazia: <Worksheet "Julho 1891"> Dia: 13 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Julho 1891"> Dia: 13 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Julho 1891"> Dia: 13 Hora 12 Coluna 27
+Valor Suspeito Tensao Vapor (15H): 17.88 - <Worksheet "Julho 1891"> Dia: 14
+Celula vazia: <Worksheet "Julho 1891"> Dia: 14 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Julho 1891"> Dia: 14 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Julho 1891"> Dia: 14 Hora 12 Coluna 27
+Celula vazia: <Worksheet "Julho 1891"> Dia: 15 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Julho 1891"> Dia: 15 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Julho 1891"> Dia: 15 Hora 12 Coluna 27
+Valor Suspeito Tensao Vapor (12H): 17.76 - <Worksheet "Julho 1891"> Dia: 16
+Valor Suspeito Tensao Vapor (15H): 18.42 - <Worksheet "Julho 1891"> Dia: 16
+Celula vazia: <Worksheet "Julho 1891"> Dia: 16 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Julho 1891"> Dia: 16 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Julho 1891"> Dia: 16 Hora 12 Coluna 27
+Valor Suspeito Tensao Vapor (12H): 18.06 - <Worksheet "Julho 1891"> Dia: 17
+Valor Suspeito Tensao Vapor (15H): 18.06 - <Worksheet "Julho 1891"> Dia: 17
+Celula vazia: <Worksheet "Julho 1891"> Dia: 17 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Julho 1891"> Dia: 17 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Julho 1891"> Dia: 17 Hora 12 Coluna 27
+Valor Suspeito Tensao Vapor (12H): 18.0 - <Worksheet "Julho 1891"> Dia: 18
+Valor Suspeito Tensao Vapor (15H): 17.51 - <Worksheet "Julho 1891"> Dia: 18
+Celula vazia: <Worksheet "Julho 1891"> Dia: 18 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Julho 1891"> Dia: 18 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Julho 1891"> Dia: 18 Hora 12 Coluna 27
+Valor Suspeito Tensao Vapor (12H): 17.94 - <Worksheet "Julho 1891"> Dia: 19
+Valor Suspeito Tensao Vapor (15H): 17.88 - <Worksheet "Julho 1891"> Dia: 19
+Celula vazia: <Worksheet "Julho 1891"> Dia: 19 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Julho 1891"> Dia: 19 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Julho 1891"> Dia: 19 Hora 12 Coluna 27
+Valor Suspeito Tensao Vapor (9H): 17.69 - <Worksheet "Julho 1891"> Dia: 20
+Valor Suspeito Tensao Vapor (12H): 22.59 - <Worksheet "Julho 1891"> Dia: 20
+Valor Suspeito Tensao Vapor (15H): 21.56 - <Worksheet "Julho 1891"> Dia: 20
+Celula vazia: <Worksheet "Julho 1891"> Dia: 20 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Julho 1891"> Dia: 20 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Julho 1891"> Dia: 20 Hora 12 Coluna 27
+Valor Suspeito Tensao Vapor (9H): 18.06 - <Worksheet "Julho 1891"> Dia: 21
+Valor Suspeito Tensao Vapor (12H): 24.33 - <Worksheet "Julho 1891"> Dia: 21
+Valor Suspeito Tensao Vapor (15H): 24.18 - <Worksheet "Julho 1891"> Dia: 21
+Celula vazia: <Worksheet "Julho 1891"> Dia: 21 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Julho 1891"> Dia: 21 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Julho 1891"> Dia: 21 Hora 12 Coluna 27
+Valor Suspeito Tensao Vapor (9H): 18.18 - <Worksheet "Julho 1891"> Dia: 22
+Valor Suspeito Tensao Vapor (12H): 24.11 - <Worksheet "Julho 1891"> Dia: 22
+Valor Suspeito Tensao Vapor (15H): 22.92 - <Worksheet "Julho 1891"> Dia: 22
+Celula vazia: <Worksheet "Julho 1891"> Dia: 22 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Julho 1891"> Dia: 22 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Julho 1891"> Dia: 22 Hora 12 Coluna 27
+Valor Suspeito Tensao Vapor (9H): 19.78 - <Worksheet "Julho 1891"> Dia: 23
+Valor Suspeito Tensao Vapor (12H): 23.75 - <Worksheet "Julho 1891"> Dia: 23
+Valor Suspeito Tensao Vapor (15H): 25.34 - <Worksheet "Julho 1891"> Dia: 23
+Celula vazia: <Worksheet "Julho 1891"> Dia: 23 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Julho 1891"> Dia: 23 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Julho 1891"> Dia: 23 Hora 12 Coluna 27
+Valor Suspeito Tensao Vapor (12H): 20.53 - <Worksheet "Julho 1891"> Dia: 24
+Valor Suspeito Tensao Vapor (15H): 25.24 - <Worksheet "Julho 1891"> Dia: 24
+Celula vazia: <Worksheet "Julho 1891"> Dia: 24 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Julho 1891"> Dia: 24 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Julho 1891"> Dia: 24 Hora 12 Coluna 27
+Valor Suspeito Tensao Vapor (9H): 21.91 - <Worksheet "Julho 1891"> Dia: 25
+Valor Suspeito Tensao Vapor (12H): 23.13 - <Worksheet "Julho 1891"> Dia: 25
+Valor Suspeito Tensao Vapor (15H): 23.71 - <Worksheet "Julho 1891"> Dia: 25
+Celula vazia: <Worksheet "Julho 1891"> Dia: 25 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Julho 1891"> Dia: 25 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Julho 1891"> Dia: 25 Hora 12 Coluna 27
+Celula vazia: <Worksheet "Julho 1891"> Dia: 26 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Julho 1891"> Dia: 26 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Julho 1891"> Dia: 26 Hora 12 Coluna 27
+Valor Suspeito Tensao Vapor (12H): 19.1 - <Worksheet "Julho 1891"> Dia: 27
+Valor Suspeito Tensao Vapor (15H): 18.92 - <Worksheet "Julho 1891"> Dia: 27
+Celula vazia: <Worksheet "Julho 1891"> Dia: 27 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Julho 1891"> Dia: 27 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Julho 1891"> Dia: 27 Hora 12 Coluna 27
+Celula vazia: <Worksheet "Julho 1891"> Dia: 28 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Julho 1891"> Dia: 28 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Julho 1891"> Dia: 28 Hora 12 Coluna 27
+Celula vazia: <Worksheet "Julho 1891"> Dia: 29 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Julho 1891"> Dia: 29 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Julho 1891"> Dia: 29 Hora 12 Coluna 27
+Celula vazia: <Worksheet "Julho 1891"> Dia: 30 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Julho 1891"> Dia: 30 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Julho 1891"> Dia: 30 Hora 12 Coluna 27
+Celula vazia: <Worksheet "Julho 1891"> Dia: 31 Hora 15 Coluna 25
+Celula vazia: <Worksheet "Julho 1891"> Dia: 31 Hora 15 Coluna 26
+Celula vazia: <Worksheet "Julho 1891"> Dia: 31 Hora 12 Coluna 27
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 235.0 - <Worksheet "Agosto 1891"> Dia: 1
+Valor Suspeito Tensao Vapor (9H): 17.32 - <Worksheet "Agosto 1891"> Dia: 2
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 256.5 - <Worksheet "Agosto 1891"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 270.1 - <Worksheet "Agosto 1891"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 178.4 - <Worksheet "Agosto 1891"> Dia: 6
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 271.0 - <Worksheet "Agosto 1891"> Dia: 7
+Valor Suspeito Tensao Vapor (12H): 17.76 - <Worksheet "Agosto 1891"> Dia: 8
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 185.1 - <Worksheet "Agosto 1891"> Dia: 8
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 292.4 - <Worksheet "Agosto 1891"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 256.3 - <Worksheet "Agosto 1891"> Dia: 12
+Valor Suspeito Tensao Vapor (12H): 17.84 - <Worksheet "Agosto 1891"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 200.7 - <Worksheet "Agosto 1891"> Dia: 13
+Valor Suspeito Tensao Vapor (9H): 18.56 - <Worksheet "Agosto 1891"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 158.7 - <Worksheet "Agosto 1891"> Dia: 14
+Valor Suspeito Tensao Vapor (15H): 17.13 - <Worksheet "Agosto 1891"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 181.1 - <Worksheet "Agosto 1891"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 173.5 - <Worksheet "Agosto 1891"> Dia: 26
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 387.1 - <Worksheet "Agosto 1891"> Dia: 27
+Valor Suspeito Velocidade Horaria  do Vento (15H): 16.1 - <Worksheet "Agosto 1891"> Dia: 27
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 208.8 - <Worksheet "Setembro 1891"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 228.3 - <Worksheet "Setembro 1891"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 153.0 - <Worksheet "Setembro 1891"> Dia: 8
+Valor Suspeito Tensao Vapor (15H): 17.56 - <Worksheet "Setembro 1891"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 156.5 - <Worksheet "Setembro 1891"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 177.9 - <Worksheet "Setembro 1891"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 202.1 - <Worksheet "Setembro 1891"> Dia: 17
+Valor Suspeito Tensao Vapor (12H): 17.06 - <Worksheet "Setembro 1891"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 192.2 - <Worksheet "Setembro 1891"> Dia: 18
+Valor Suspeito Tensao Vapor (12H): 17.01 - <Worksheet "Setembro 1891"> Dia: 19
+Valor Suspeito Tensao Vapor (12H): 17.02 - <Worksheet "Setembro 1891"> Dia: 20
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 295.7 - <Worksheet "Setembro 1891"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 190.3 - <Worksheet "Setembro 1891"> Dia: 22
+Valor Suspeito Tensao Vapor (12H): 17.38 - <Worksheet "Setembro 1891"> Dia: 27
+Valor Suspeito Tensao Vapor (15H): 18.11 - <Worksheet "Setembro 1891"> Dia: 27
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 344.9 - <Worksheet "Outubro 1881"> Dia: 6
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 187.2 - <Worksheet "Outubro 1881"> Dia: 7
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 189.4 - <Worksheet "Outubro 1881"> Dia: 9
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 154.9 - <Worksheet "Outubro 1881"> Dia: 10
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 193.6 - <Worksheet "Outubro 1881"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 295.5 - <Worksheet "Outubro 1881"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 294.4 - <Worksheet "Outubro 1881"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 167.8 - <Worksheet "Outubro 1881"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 169.2 - <Worksheet "Outubro 1881"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 457.2 - <Worksheet "Outubro 1881"> Dia: 22
+Valor Suspeito Velocidade Horaria  do Vento (15H): 19.0 - <Worksheet "Outubro 1881"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 199.0 - <Worksheet "Outubro 1881"> Dia: 23
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 225.8 - <Worksheet "Outubro 1881"> Dia: 24
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 173.0 - <Worksheet "Outubro 1881"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 209.9 - <Worksheet "Outubro 1881"> Dia: 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 198.5 - <Worksheet "Outubro 1881"> Dia: 31
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 204.0 - <Worksheet "Novembro 1891"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 276.8 - <Worksheet "Novembro 1891"> Dia: 6
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 234.2 - <Worksheet "Novembro 1891"> Dia: 7
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 169.7 - <Worksheet "Novembro 1891"> Dia: 8
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 284.2 - <Worksheet "Novembro 1891"> Dia: 10
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 300.0 - <Worksheet "Novembro 1891"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 250.8 - <Worksheet "Novembro 1891"> Dia: 12
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 411.1 - <Worksheet "Novembro 1891"> Dia: 13
+Valor Suspeito Velocidade Horaria  do Vento (15H): 17.1 - <Worksheet "Novembro 1891"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 638.9 - <Worksheet "Novembro 1891"> Dia: 14
+Valor Suspeito Velocidade Horaria  do Vento (15H): 26.6 - <Worksheet "Novembro 1891"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 203.0 - <Worksheet "Novembro 1891"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 157.5 - <Worksheet "Novembro 1891"> Dia: 26
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 163.2 - <Worksheet "Novembro 1891"> Dia: 28
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 228.9 - <Worksheet "Novembro 1891"> Dia: 29
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 152.7 - <Worksheet "Novembro 1891"> Dia: 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 228.2 - <Worksheet "Dezembro 1891"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 360.9 - <Worksheet "Dezembro 1891"> Dia: 2
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 185.3 - <Worksheet "Dezembro 1891"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 166.5 - <Worksheet "Dezembro 1891"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 217.1 - <Worksheet "Dezembro 1891"> Dia: 17
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 210.7 - <Worksheet "Dezembro 1891"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 303.2 - <Worksheet "Dezembro 1891"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 282.6 - <Worksheet "Dezembro 1891"> Dia: 23
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 168.0 - <Worksheet "Dezembro 1891"> Dia: 26
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 173.1 - <Worksheet "Dezembro 1891"> Dia: 29
+1890 - 1898/REGISTOS METEOROLOGICOS 1891.xlsx
+----------------------------
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 186.7 - <Worksheet "Janeiro 1896"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 201.5 - <Worksheet "Janeiro 1896"> Dia: 2
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 291.8 - <Worksheet "Janeiro 1896"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 207.6 - <Worksheet "Janeiro 1896"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 163.9 - <Worksheet "Janeiro 1896"> Dia: 7
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 253.3 - <Worksheet "Janeiro 1896"> Dia: 8
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 251.8 - <Worksheet "Janeiro 1896"> Dia: 9
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 309.3 - <Worksheet "Janeiro 1896"> Dia: 10
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 206.2 - <Worksheet "Janeiro 1896"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 157.3 - <Worksheet "Janeiro 1896"> Dia: 17
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 164.2 - <Worksheet "Janeiro 1896"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 182.8 - <Worksheet "Janeiro 1896"> Dia: 23
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 158.5 - <Worksheet "Janeiro 1896"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 220.6 - <Worksheet "Janeiro 1896"> Dia: 29
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 259.3 - <Worksheet "Janeiro 1896"> Dia: 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 188.1 - <Worksheet "Janeiro 1896"> Dia: 31
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 157.2 - <Worksheet "Fevereiro 1896"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 166.1 - <Worksheet "Fevereiro 1896"> Dia: 7
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 156.4 - <Worksheet "Fevereiro 1896"> Dia: 8
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 152.8 - <Worksheet "Fevereiro 1896"> Dia: 10
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 187.7 - <Worksheet "Fevereiro 1896"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 164.3 - <Worksheet "Fevereiro 1896"> Dia: 12
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 175.4 - <Worksheet "Fevereiro 1896"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 190.4 - <Worksheet "Fevereiro 1896"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 259.6 - <Worksheet "Fevereiro 1896"> Dia: 17
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 280.4 - <Worksheet "Fevereiro 1896"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 261.7 - <Worksheet "Fevereiro 1896"> Dia: 19
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 233.6 - <Worksheet "Fevereiro 1896"> Dia: 20
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 196.0 - <Worksheet "Fevereiro 1896"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 303.7 - <Worksheet "Fevereiro 1896"> Dia: 27
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 248.3 - <Worksheet "Fevereiro 1896"> Dia: 28
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 186.1 - <Worksheet "Mar\xe7o 1896"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 164.0 - <Worksheet "Mar\xe7o 1896"> Dia: 2
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 272.4 - <Worksheet "Mar\xe7o 1896"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 154.1 - <Worksheet "Mar\xe7o 1896"> Dia: 8
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 171.1 - <Worksheet "Mar\xe7o 1896"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 152.5 - <Worksheet "Mar\xe7o 1896"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 179.7 - <Worksheet "Mar\xe7o 1896"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 227.3 - <Worksheet "Mar\xe7o 1896"> Dia: 26
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 170.3 - <Worksheet "Mar\xe7o 1896"> Dia: 27
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 219.4 - <Worksheet "Mar\xe7o 1896"> Dia: 28
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 283.1 - <Worksheet "Mar\xe7o 1896"> Dia: 29
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 285.2 - <Worksheet "Mar\xe7o 1896"> Dia: 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 569.3 - <Worksheet "Mar\xe7o 1896"> Dia: 31
+Valor Suspeito Velocidade Horaria  do Vento (15H): 23.7 - <Worksheet "Mar\xe7o 1896"> Dia: 31
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 374.6 - <Worksheet "Abril 1896"> Dia: 1
+Valor Suspeito Velocidade Horaria  do Vento (15H): 15.6 - <Worksheet "Abril 1896"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 249.8 - <Worksheet "Abril 1896"> Dia: 2
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 162.2 - <Worksheet "Abril 1896"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 340.2 - <Worksheet "Abril 1896"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 287.6 - <Worksheet "Abril 1896"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 189.6 - <Worksheet "Abril 1896"> Dia: 7
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 223.9 - <Worksheet "Abril 1896"> Dia: 8
+Valor Suspeito Tensao Vapor (15H): 17.21 - <Worksheet "Abril 1896"> Dia: 12
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 220.2 - <Worksheet "Abril 1896"> Dia: 12
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 154.1 - <Worksheet "Abril 1896"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 268.7 - <Worksheet "Abril 1896"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 169.7 - <Worksheet "Abril 1896"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 224.2 - <Worksheet "Abril 1896"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 205.5 - <Worksheet "Abril 1896"> Dia: 19
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 183.9 - <Worksheet "Abril 1896"> Dia: 20
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 316.8 - <Worksheet "Abril 1896"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 150.9 - <Worksheet "Abril 1896"> Dia: 23
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 300.2 - <Worksheet "Abril 1896"> Dia: 24
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 236.1 - <Worksheet "Abril 1896"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 210.8 - <Worksheet "Abril 1896"> Dia: 26
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 207.0 - <Worksheet "Abril 1896"> Dia: 27
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 226.2 - <Worksheet "Maio 1896"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 213.6 - <Worksheet "Maio 1896"> Dia: 2
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 240.4 - <Worksheet "Maio 1896"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 314.1 - <Worksheet "Maio 1896"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 336.0 - <Worksheet "Maio 1896"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 196.6 - <Worksheet "Maio 1896"> Dia: 6
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 204.4 - <Worksheet "Maio 1896"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 255.5 - <Worksheet "Maio 1896"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 268.4 - <Worksheet "Maio 1896"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 208.9 - <Worksheet "Maio 1896"> Dia: 17
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 226.8 - <Worksheet "Maio 1896"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 221.1 - <Worksheet "Maio 1896"> Dia: 19
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 201.9 - <Worksheet "Maio 1896"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 301.0 - <Worksheet "Maio 1896"> Dia: 22
+Valor Suspeito Tensao Vapor (15H): 17.5 - <Worksheet "Maio 1896"> Dia: 23
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 230.5 - <Worksheet "Maio 1896"> Dia: 23
+Valor Suspeito Tensao Vapor (12H): 19.13 - <Worksheet "Maio 1896"> Dia: 24
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 250.0 - <Worksheet "Maio 1896"> Dia: 24
+Valor Suspeito Tensao Vapor (12H): 19.0 - <Worksheet "Maio 1896"> Dia: 25
+Valor Suspeito Tensao Vapor (15H): 21.23 - <Worksheet "Maio 1896"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 206.7 - <Worksheet "Maio 1896"> Dia: 25
+Valor Suspeito Udometro (9H): 58.0 - <Worksheet "Junho 1896"> Dia: 2
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 238.9 - <Worksheet "Junho 1896"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 215.2 - <Worksheet "Junho 1896"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 316.2 - <Worksheet "Junho 1896"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 370.5 - <Worksheet "Junho 1896"> Dia: 6
+Valor Suspeito Velocidade Horaria  do Vento (15H): 15.4 - <Worksheet "Junho 1896"> Dia: 6
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 446.6 - <Worksheet "Junho 1896"> Dia: 7
+Valor Suspeito Velocidade Horaria  do Vento (15H): 18.6 - <Worksheet "Junho 1896"> Dia: 7
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 331.4 - <Worksheet "Junho 1896"> Dia: 8
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 243.6 - <Worksheet "Junho 1896"> Dia: 9
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 224.5 - <Worksheet "Junho 1896"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 152.8 - <Worksheet "Junho 1896"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 175.1 - <Worksheet "Junho 1896"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 262.9 - <Worksheet "Junho 1896"> Dia: 26
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 218.6 - <Worksheet "Junho 1896"> Dia: 27
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 207.0 - <Worksheet "Junho 1896"> Dia: 28
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 184.6 - <Worksheet "Junho 1896"> Dia: 29
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 209.2 - <Worksheet "Junho 1896"> Dia: 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 192.3 - <Worksheet "Julho 1896"> Dia: 2
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 173.5 - <Worksheet "Julho 1896"> Dia: 4
+Valor Suspeito Tensao Vapor (12H): 17.2 - <Worksheet "Julho 1896"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 172.9 - <Worksheet "Julho 1896"> Dia: 6
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 159.8 - <Worksheet "Julho 1896"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 167.1 - <Worksheet "Julho 1896"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 190.4 - <Worksheet "Julho 1896"> Dia: 23
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 218.3 - <Worksheet "Julho 1896"> Dia: 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 328.0 - <Worksheet "Julho 1896"> Dia: 31
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 380.5 - <Worksheet "Setembro 1896"> Dia: 7
+Valor Suspeito Velocidade Horaria  do Vento (15H): 15.8 - <Worksheet "Setembro 1896"> Dia: 7
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 300.1 - <Worksheet "Setembro 1896"> Dia: 8
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 435.9 - <Worksheet "Setembro 1896"> Dia: 9
+Valor Suspeito Velocidade Horaria  do Vento (15H): 18.1 - <Worksheet "Setembro 1896"> Dia: 9
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 203.6 - <Worksheet "Setembro 1896"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 389.2 - <Worksheet "Setembro 1896"> Dia: 12
+Valor Suspeito Velocidade Horaria  do Vento (15H): 16.2 - <Worksheet "Setembro 1896"> Dia: 12
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 288.2 - <Worksheet "Setembro 1896"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 156.7 - <Worksheet "Setembro 1896"> Dia: 14
+Valor Suspeito Tensao Vapor (12H): 18.81 - <Worksheet "Setembro 1896"> Dia: 16
+Valor Suspeito Tensao Vapor (15H): 18.0 - <Worksheet "Setembro 1896"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 214.3 - <Worksheet "Setembro 1896"> Dia: 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 157.8 - <Worksheet "Outubro 1886"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 151.2 - <Worksheet "Outubro 1886"> Dia: 2
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 179.5 - <Worksheet "Outubro 1886"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 151.3 - <Worksheet "Outubro 1886"> Dia: 8
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 293.7 - <Worksheet "Outubro 1886"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 203.9 - <Worksheet "Outubro 1886"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 214.5 - <Worksheet "Outubro 1886"> Dia: 23
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 206.3 - <Worksheet "Outubro 1886"> Dia: 29
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 191.8 - <Worksheet "Outubro 1886"> Dia: 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 212.0 - <Worksheet "Novembro 1896"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 170.3 - <Worksheet "Novembro 1896"> Dia: 9
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 197.5 - <Worksheet "Novembro 1896"> Dia: 10
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 155.4 - <Worksheet "Novembro 1896"> Dia: 12
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 272.7 - <Worksheet "Novembro 1896"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 180.5 - <Worksheet "Novembro 1896"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 222.2 - <Worksheet "Novembro 1896"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 247.7 - <Worksheet "Novembro 1896"> Dia: 23
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 221.7 - <Worksheet "Novembro 1896"> Dia: 24
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 181.0 - <Worksheet "Novembro 1896"> Dia: 28
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 169.0 - <Worksheet "Novembro 1896"> Dia: 29
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 345.3 - <Worksheet "Novembro 1896"> Dia: 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 387.4 - <Worksheet "Dezembro 1896"> Dia: 1
+Valor Suspeito Velocidade Horaria  do Vento (15H): 16.1 - <Worksheet "Dezembro 1896"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 251.9 - <Worksheet "Dezembro 1896"> Dia: 2
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 282.0 - <Worksheet "Dezembro 1896"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 258.0 - <Worksheet "Dezembro 1896"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 712.2 - <Worksheet "Dezembro 1896"> Dia: 6
+Valor Suspeito Velocidade Horaria  do Vento (15H): 29.6 - <Worksheet "Dezembro 1896"> Dia: 6
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 332.1 - <Worksheet "Dezembro 1896"> Dia: 8
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 266.6 - <Worksheet "Dezembro 1896"> Dia: 10
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 151.4 - <Worksheet "Dezembro 1896"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 321.0 - <Worksheet "Dezembro 1896"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 220.5 - <Worksheet "Dezembro 1896"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 358.1 - <Worksheet "Dezembro 1896"> Dia: 17
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 363.7 - <Worksheet "Dezembro 1896"> Dia: 18
+Valor Suspeito Velocidade Horaria  do Vento (15H): 15.1 - <Worksheet "Dezembro 1896"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 222.2 - <Worksheet "Dezembro 1896"> Dia: 19
+1890 - 1898/REGISTOS METEOROLOGICOS 1896.xlsx
+----------------------------
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 170.7 - <Worksheet "Janeiro 1892"> Dia: 2
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 169.8 - <Worksheet "Janeiro 1892"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 219.1 - <Worksheet "Janeiro 1892"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 158.6 - <Worksheet "Janeiro 1892"> Dia: 7
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 218.1 - <Worksheet "Janeiro 1892"> Dia: 9
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 172.0 - <Worksheet "Janeiro 1892"> Dia: 10
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 368.8 - <Worksheet "Janeiro 1892"> Dia: 11
+Valor Suspeito Velocidade Horaria  do Vento (15H): 15.3 - <Worksheet "Janeiro 1892"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 172.7 - <Worksheet "Janeiro 1892"> Dia: 12
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 220.5 - <Worksheet "Janeiro 1892"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 182.0 - <Worksheet "Janeiro 1892"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 176.1 - <Worksheet "Janeiro 1892"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 323.7 - <Worksheet "Janeiro 1892"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 351.5 - <Worksheet "Janeiro 1892"> Dia: 20
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 285.7 - <Worksheet "Janeiro 1892"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 176.5 - <Worksheet "Janeiro 1892"> Dia: 26
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 190.1 - <Worksheet "Janeiro 1892"> Dia: 27
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 228.3 - <Worksheet "Janeiro 1892"> Dia: 29
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 203.9 - <Worksheet "Janeiro 1892"> Dia: 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 206.9 - <Worksheet "Janeiro 1892"> Dia: 31
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 153.5 - <Worksheet "Fevereiro 1892"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 190.6 - <Worksheet "Fevereiro 1892"> Dia: 2
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 290.9 - <Worksheet "Fevereiro 1892"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 326.6 - <Worksheet "Fevereiro 1892"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 156.5 - <Worksheet "Fevereiro 1892"> Dia: 6
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 251.2 - <Worksheet "Fevereiro 1892"> Dia: 10
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 301.2 - <Worksheet "Fevereiro 1892"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 238.4 - <Worksheet "Fevereiro 1892"> Dia: 12
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 195.8 - <Worksheet "Fevereiro 1892"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 252.3 - <Worksheet "Fevereiro 1892"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 150.6 - <Worksheet "Fevereiro 1892"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 151.0 - <Worksheet "Fevereiro 1892"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 189.4 - <Worksheet "Fevereiro 1892"> Dia: 17
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 163.3 - <Worksheet "Fevereiro 1892"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 333.8 - <Worksheet "Fevereiro 1892"> Dia: 20
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 217.0 - <Worksheet "Fevereiro 1892"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 377.3 - <Worksheet "Fevereiro 1892"> Dia: 22
+Valor Suspeito Velocidade Horaria  do Vento (15H): 15.7 - <Worksheet "Fevereiro 1892"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 222.9 - <Worksheet "Fevereiro 1892"> Dia: 23
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 231.3 - <Worksheet "Fevereiro 1892"> Dia: 24
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 154.6 - <Worksheet "Fevereiro 1892"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 236.4 - <Worksheet "Fevereiro 1892"> Dia: 26
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 494.2 - <Worksheet "Fevereiro 1892"> Dia: 27
+Valor Suspeito Velocidade Horaria  do Vento (15H): 20.5 - <Worksheet "Fevereiro 1892"> Dia: 27
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 445.5 - <Worksheet "Fevereiro 1892"> Dia: 28
+Valor Suspeito Velocidade Horaria  do Vento (15H): 18.5 - <Worksheet "Fevereiro 1892"> Dia: 28
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 195.0 - <Worksheet "Fevereiro 1892"> Dia: 29
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 166.2 - <Worksheet "Mar\xe7o 1892"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 205.8 - <Worksheet "Mar\xe7o 1892"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 357.0 - <Worksheet "Mar\xe7o 1892"> Dia: 6
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 340.0 - <Worksheet "Mar\xe7o 1892"> Dia: 7
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 349.9 - <Worksheet "Mar\xe7o 1892"> Dia: 9
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 280.1 - <Worksheet "Mar\xe7o 1892"> Dia: 10
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 257.5 - <Worksheet "Mar\xe7o 1892"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 437.7 - <Worksheet "Mar\xe7o 1892"> Dia: 12
+Valor Suspeito Velocidade Horaria  do Vento (15H): 18.2 - <Worksheet "Mar\xe7o 1892"> Dia: 12
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 384.0 - <Worksheet "Mar\xe7o 1892"> Dia: 13
+Valor Suspeito Velocidade Horaria  do Vento (15H): 16.0 - <Worksheet "Mar\xe7o 1892"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 285.1 - <Worksheet "Mar\xe7o 1892"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 157.6 - <Worksheet "Mar\xe7o 1892"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 158.3 - <Worksheet "Mar\xe7o 1892"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 270.5 - <Worksheet "Mar\xe7o 1892"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 223.4 - <Worksheet "Mar\xe7o 1892"> Dia: 23
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 253.4 - <Worksheet "Mar\xe7o 1892"> Dia: 24
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 195.7 - <Worksheet "Mar\xe7o 1892"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 173.3 - <Worksheet "Mar\xe7o 1892"> Dia: 26
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 156.0 - <Worksheet "Mar\xe7o 1892"> Dia: 28
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 508.0 - <Worksheet "Mar\xe7o 1892"> Dia: 29
+Valor Suspeito Velocidade Horaria  do Vento (15H): 21.1 - <Worksheet "Mar\xe7o 1892"> Dia: 29
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 234.7 - <Worksheet "Mar\xe7o 1892"> Dia: 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 223.8 - <Worksheet "Mar\xe7o 1892"> Dia: 31
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 277.3 - <Worksheet "Abril 1892"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 208.6 - <Worksheet "Abril 1892"> Dia: 2
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 157.2 - <Worksheet "Abril 1892"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 348.7 - <Worksheet "Abril 1892"> Dia: 6
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 167.8 - <Worksheet "Abril 1892"> Dia: 7
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 164.6 - <Worksheet "Abril 1892"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 195.3 - <Worksheet "Abril 1892"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 247.0 - <Worksheet "Abril 1892"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 183.9 - <Worksheet "Abril 1892"> Dia: 19
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 262.6 - <Worksheet "Abril 1892"> Dia: 20
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 161.2 - <Worksheet "Abril 1892"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 224.2 - <Worksheet "Abril 1892"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 212.4 - <Worksheet "Abril 1892"> Dia: 23
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 163.5 - <Worksheet "Abril 1892"> Dia: 24
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 208.9 - <Worksheet "Abril 1892"> Dia: 27
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 284.6 - <Worksheet "Abril 1892"> Dia: 28
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 284.8 - <Worksheet "Abril 1892"> Dia: 29
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 424.6 - <Worksheet "Abril 1892"> Dia: 30
+Valor Suspeito Velocidade Horaria  do Vento (15H): 17.6 - <Worksheet "Abril 1892"> Dia: 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 281.6 - <Worksheet "Maio 1892"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 180.6 - <Worksheet "Maio 1892"> Dia: 2
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 391.1 - <Worksheet "Maio 1892"> Dia: 3
+Valor Suspeito Velocidade Horaria  do Vento (15H): 16.2 - <Worksheet "Maio 1892"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 289.1 - <Worksheet "Maio 1892"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 155.4 - <Worksheet "Maio 1892"> Dia: 9
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 164.3 - <Worksheet "Maio 1892"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 241.4 - <Worksheet "Maio 1892"> Dia: 12
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 216.2 - <Worksheet "Maio 1892"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 219.4 - <Worksheet "Maio 1892"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 164.3 - <Worksheet "Maio 1892"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 158.5 - <Worksheet "Maio 1892"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 196.9 - <Worksheet "Maio 1892"> Dia: 17
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 175.0 - <Worksheet "Maio 1892"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 164.1 - <Worksheet "Maio 1892"> Dia: 24
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 163.1 - <Worksheet "Junho 1892"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 291.9 - <Worksheet "Junho 1892"> Dia: 2
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 204.1 - <Worksheet "Junho 1892"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 157.8 - <Worksheet "Junho 1892"> Dia: 5
+Valor Suspeito Tensao Vapor (15H): 17.86 - <Worksheet "Junho 1892"> Dia: 6
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 186.2 - <Worksheet "Junho 1892"> Dia: 7
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 190.7 - <Worksheet "Junho 1892"> Dia: 9
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 264.8 - <Worksheet "Junho 1892"> Dia: 10
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 270.7 - <Worksheet "Junho 1892"> Dia: 23
+Valor Suspeito Tensao Vapor (12H): 17.26 - <Worksheet "Junho 1892"> Dia: 25
+Valor Suspeito Tensao Vapor (15H): 17.13 - <Worksheet "Junho 1892"> Dia: 25
+Valor Suspeito Tensao Vapor (9H): 19.6 - <Worksheet "Junho 1892"> Dia: 26
+Valor Suspeito Tensao Vapor (12H): 18.74 - <Worksheet "Junho 1892"> Dia: 26
+Valor Suspeito Tensao Vapor (15H): 20.52 - <Worksheet "Junho 1892"> Dia: 26
+Valor Suspeito Tensao Vapor (12H): 19.85 - <Worksheet "Junho 1892"> Dia: 29
+Valor Suspeito Tensao Vapor (15H): 18.79 - <Worksheet "Junho 1892"> Dia: 29
+Valor Suspeito Tensao Vapor (9H): 19.04 - <Worksheet "Junho 1892"> Dia: 30
+Valor Suspeito Tensao Vapor (15H): 17.13 - <Worksheet "Junho 1892"> Dia: 30
+Valor Suspeito Tensao Vapor (15H): 17.11 - <Worksheet "Julho 1892"> Dia: 1
+Valor Suspeito Pressao (9H): 75509.0 - <Worksheet "Julho 1892"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 161.8 - <Worksheet "Julho 1892"> Dia: 4
+Valor Suspeito Tensao Vapor (15H): 17.01 - <Worksheet "Julho 1892"> Dia: 8
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 172.8 - <Worksheet "Julho 1892"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 194.2 - <Worksheet "Julho 1892"> Dia: 12
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 187.6 - <Worksheet "Julho 1892"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 165.3 - <Worksheet "Julho 1892"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 196.9 - <Worksheet "Julho 1892"> Dia: 26
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 218.4 - <Worksheet "Julho 1892"> Dia: 27
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 175.3 - <Worksheet "Julho 1892"> Dia: 28
+Valor Suspeito Tensao Vapor (12H): 17.38 - <Worksheet "Julho 1892"> Dia: 30
+Valor Suspeito Tensao Vapor (15H): 17.19 - <Worksheet "Julho 1892"> Dia: 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 205.6 - <Worksheet "Agosto 1892"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 207.6 - <Worksheet "Agosto 1892"> Dia: 2
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 244.5 - <Worksheet "Agosto 1892"> Dia: 3
+Valor Suspeito Tensao Vapor (12H): 19.37 - <Worksheet "Agosto 1892"> Dia: 15
+Valor Suspeito Tensao Vapor (15H): 17.0 - <Worksheet "Agosto 1892"> Dia: 15
+Valor Suspeito Tensao Vapor (15H): 17.39 - <Worksheet "Agosto 1892"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 189.2 - <Worksheet "Agosto 1892"> Dia: 19
+Valor Suspeito Tensao Vapor (15H): 18.76 - <Worksheet "Agosto 1892"> Dia: 21
+Valor Suspeito Tensao Vapor (15H): 17.01 - <Worksheet "Agosto 1892"> Dia: 26
+Valor Suspeito Tensao Vapor (9H): 17.14 - <Worksheet "Agosto 1892"> Dia: 27
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 159.7 - <Worksheet "Agosto 1892"> Dia: 29
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 193.8 - <Worksheet "Agosto 1892"> Dia: 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 188.6 - <Worksheet "Setembro 1892"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 150.9 - <Worksheet "Setembro 1892"> Dia: 2
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 191.2 - <Worksheet "Setembro 1892"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 283.1 - <Worksheet "Setembro 1892"> Dia: 5
+Valor Suspeito Tensao Vapor (12H): 17.8 - <Worksheet "Setembro 1892"> Dia: 6
+Valor Suspeito Tensao Vapor (15H): 19.65 - <Worksheet "Setembro 1892"> Dia: 6
+Valor Suspeito Tensao Vapor (12H): 19.66 - <Worksheet "Setembro 1892"> Dia: 7
+Valor Suspeito Tensao Vapor (15H): 19.87 - <Worksheet "Setembro 1892"> Dia: 7
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 224.6 - <Worksheet "Setembro 1892"> Dia: 8
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 233.1 - <Worksheet "Setembro 1892"> Dia: 9
+Valor Suspeito Tensao Vapor (15H): 17.76 - <Worksheet "Setembro 1892"> Dia: 10
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 249.9 - <Worksheet "Setembro 1892"> Dia: 10
+Valor Suspeito Tensao Vapor (9H): 19.71 - <Worksheet "Setembro 1892"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 177.6 - <Worksheet "Setembro 1892"> Dia: 11
+Valor Suspeito Tensao Vapor (9H): 21.83 - <Worksheet "Setembro 1892"> Dia: 12
+Valor Suspeito Tensao Vapor (12H): 19.68 - <Worksheet "Setembro 1892"> Dia: 12
+Valor Suspeito Tensao Vapor (15H): 21.82 - <Worksheet "Setembro 1892"> Dia: 12
+Valor Suspeito Tensao Vapor (15H): 18.79 - <Worksheet "Setembro 1892"> Dia: 14
+Valor Suspeito Tensao Vapor (15H): 17.26 - <Worksheet "Setembro 1892"> Dia: 17
+Valor Suspeito Tensao Vapor (9H): 17.44 - <Worksheet "Setembro 1892"> Dia: 18
+Valor Suspeito Tensao Vapor (12H): 17.69 - <Worksheet "Setembro 1892"> Dia: 18
+Valor Suspeito Tensao Vapor (15H): 21.29 - <Worksheet "Setembro 1892"> Dia: 18
+Valor Suspeito Tensao Vapor (9H): 20.4 - <Worksheet "Setembro 1892"> Dia: 19
+Valor Suspeito Tensao Vapor (12H): 21.71 - <Worksheet "Setembro 1892"> Dia: 19
+Valor Suspeito Tensao Vapor (15H): 21.77 - <Worksheet "Setembro 1892"> Dia: 19
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 167.3 - <Worksheet "Setembro 1892"> Dia: 19
+Valor Suspeito Tensao Vapor (9H): 17.27 - <Worksheet "Setembro 1892"> Dia: 20
+Valor Suspeito Tensao Vapor (12H): 17.14 - <Worksheet "Setembro 1892"> Dia: 20
+Valor Suspeito Tensao Vapor (9H): 17.32 - <Worksheet "Setembro 1892"> Dia: 21
+Valor Suspeito Tensao Vapor (15H): 17.75 - <Worksheet "Setembro 1892"> Dia: 21
+Valor Suspeito Tensao Vapor (12H): 17.69 - <Worksheet "Setembro 1892"> Dia: 22
+Valor Suspeito Tensao Vapor (15H): 17.49 - <Worksheet "Setembro 1892"> Dia: 22
+Valor Suspeito Tensao Vapor (15H): 19.35 - <Worksheet "Setembro 1892"> Dia: 23
+Valor Suspeito Tensao Vapor (12H): 17.06 - <Worksheet "Setembro 1892"> Dia: 24
+Valor Suspeito Tensao Vapor (15H): 19.28 - <Worksheet "Setembro 1892"> Dia: 24
+Valor Suspeito Tensao Vapor (12H): 17.88 - <Worksheet "Outubro 1882"> Dia: 3
+Valor Suspeito Udometro (9H): 55.2 - <Worksheet "Outubro 1882"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 167.5 - <Worksheet "Outubro 1882"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 192.0 - <Worksheet "Outubro 1882"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 216.6 - <Worksheet "Outubro 1882"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 271.2 - <Worksheet "Outubro 1882"> Dia: 19
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 371.6 - <Worksheet "Outubro 1882"> Dia: 20
+Valor Suspeito Velocidade Horaria  do Vento (15H): 15.4 - <Worksheet "Outubro 1882"> Dia: 20
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 207.7 - <Worksheet "Outubro 1882"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 152.1 - <Worksheet "Outubro 1882"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 158.7 - <Worksheet "Outubro 1882"> Dia: 23
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 190.4 - <Worksheet "Outubro 1882"> Dia: 24
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 235.3 - <Worksheet "Outubro 1882"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 199.7 - <Worksheet "Outubro 1882"> Dia: 26
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 273.5 - <Worksheet "Outubro 1882"> Dia: 27
+Valor Suspeito Velocidade Horaria  do Vento (15H): 15.5 - <Worksheet "Outubro 1882"> Dia: 27
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 399.8 - <Worksheet "Outubro 1882"> Dia: 28
+Valor Suspeito Velocidade Horaria  do Vento (15H): 16.6 - <Worksheet "Outubro 1882"> Dia: 28
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 169.2 - <Worksheet "Outubro 1882"> Dia: 29
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 183.1 - <Worksheet "Novembro 1892"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 243.3 - <Worksheet "Novembro 1892"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 213.7 - <Worksheet "Novembro 1892"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 175.8 - <Worksheet "Novembro 1892"> Dia: 9
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 270.9 - <Worksheet "Novembro 1892"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 235.0 - <Worksheet "Novembro 1892"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 347.0 - <Worksheet "Novembro 1892"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 153.0 - <Worksheet "Novembro 1892"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 223.6 - <Worksheet "Novembro 1892"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 313.7 - <Worksheet "Novembro 1892"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 186.6 - <Worksheet "Novembro 1892"> Dia: 28
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 151.7 - <Worksheet "Novembro 1892"> Dia: 29
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 150.7 - <Worksheet "Novembro 1892"> Dia: 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 205.1 - <Worksheet "Dezembro 1892"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 232.7 - <Worksheet "Dezembro 1892"> Dia: 2
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 198.0 - <Worksheet "Dezembro 1892"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 172.3 - <Worksheet "Dezembro 1892"> Dia: 9
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 154.6 - <Worksheet "Dezembro 1892"> Dia: 10
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 164.6 - <Worksheet "Dezembro 1892"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 202.2 - <Worksheet "Dezembro 1892"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 187.2 - <Worksheet "Dezembro 1892"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 230.4 - <Worksheet "Dezembro 1892"> Dia: 19
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 192.8 - <Worksheet "Dezembro 1892"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 221.1 - <Worksheet "Dezembro 1892"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 225.6 - <Worksheet "Dezembro 1892"> Dia: 23
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 276.7 - <Worksheet "Dezembro 1892"> Dia: 24
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 222.5 - <Worksheet "Dezembro 1892"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 253.9 - <Worksheet "Dezembro 1892"> Dia: 26
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 188.4 - <Worksheet "Dezembro 1892"> Dia: 28
+1890 - 1898/REGISTOS METEOROLOGICOS 1892.xlsx
+----------------------------
+Celula vazia: <Worksheet "Janeiro 1897"> Dia: 1 Hora 9 Coluna 20
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 202.3 - <Worksheet "Janeiro 1897"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 241.0 - <Worksheet "Janeiro 1897"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 504.0 - <Worksheet "Janeiro 1897"> Dia: 6
+Valor Suspeito Velocidade Horaria  do Vento (15H): 21.0 - <Worksheet "Janeiro 1897"> Dia: 6
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 292.7 - <Worksheet "Janeiro 1897"> Dia: 7
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 396.0 - <Worksheet "Janeiro 1897"> Dia: 8
+Valor Suspeito Velocidade Horaria  do Vento (15H): 16.5 - <Worksheet "Janeiro 1897"> Dia: 8
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 435.4 - <Worksheet "Janeiro 1897"> Dia: 9
+Valor Suspeito Velocidade Horaria  do Vento (15H): 18.1 - <Worksheet "Janeiro 1897"> Dia: 9
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 302.5 - <Worksheet "Janeiro 1897"> Dia: 12
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 274.0 - <Worksheet "Janeiro 1897"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 379.7 - <Worksheet "Janeiro 1897"> Dia: 14
+Valor Suspeito Velocidade Horaria  do Vento (15H): 15.8 - <Worksheet "Janeiro 1897"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 329.8 - <Worksheet "Janeiro 1897"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 240.1 - <Worksheet "Janeiro 1897"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 196.3 - <Worksheet "Janeiro 1897"> Dia: 19
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 263.7 - <Worksheet "Janeiro 1897"> Dia: 20
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 266.0 - <Worksheet "Janeiro 1897"> Dia: 23
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 238.5 - <Worksheet "Janeiro 1897"> Dia: 29
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 207.6 - <Worksheet "Janeiro 1897"> Dia: 31
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 458.9 - <Worksheet "Fevereiro 1897"> Dia: 2
+Valor Suspeito Velocidade Horaria  do Vento (15H): 19.1 - <Worksheet "Fevereiro 1897"> Dia: 2
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 571.1 - <Worksheet "Fevereiro 1897"> Dia: 3
+Valor Suspeito Velocidade Horaria  do Vento (15H): 23.7 - <Worksheet "Fevereiro 1897"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 286.9 - <Worksheet "Fevereiro 1897"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 203.6 - <Worksheet "Fevereiro 1897"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 165.1 - <Worksheet "Fevereiro 1897"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 164.4 - <Worksheet "Fevereiro 1897"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 209.0 - <Worksheet "Fevereiro 1897"> Dia: 23
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 257.0 - <Worksheet "Mar\xe7o 1897"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 229.2 - <Worksheet "Mar\xe7o 1897"> Dia: 2
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 290.8 - <Worksheet "Mar\xe7o 1897"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 325.0 - <Worksheet "Mar\xe7o 1897"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 239.2 - <Worksheet "Mar\xe7o 1897"> Dia: 6
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 182.8 - <Worksheet "Mar\xe7o 1897"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 317.2 - <Worksheet "Mar\xe7o 1897"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 195.6 - <Worksheet "Mar\xe7o 1897"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 367.1 - <Worksheet "Mar\xe7o 1897"> Dia: 16
+Valor Suspeito Velocidade Horaria  do Vento (15H): 15.2 - <Worksheet "Mar\xe7o 1897"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 322.1 - <Worksheet "Mar\xe7o 1897"> Dia: 17
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 289.6 - <Worksheet "Mar\xe7o 1897"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 190.7 - <Worksheet "Mar\xe7o 1897"> Dia: 29
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 242.4 - <Worksheet "Mar\xe7o 1897"> Dia: 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 168.8 - <Worksheet "Mar\xe7o 1897"> Dia: 31
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 396.7 - <Worksheet "Abril 1897"> Dia: 1
+Valor Suspeito Velocidade Horaria  do Vento (15H): 16.5 - <Worksheet "Abril 1897"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 258.8 - <Worksheet "Abril 1897"> Dia: 2
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 371.6 - <Worksheet "Abril 1897"> Dia: 3
+Valor Suspeito Velocidade Horaria  do Vento (15H): 15.4 - <Worksheet "Abril 1897"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 242.2 - <Worksheet "Abril 1897"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 170.2 - <Worksheet "Abril 1897"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 225.1 - <Worksheet "Abril 1897"> Dia: 6
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 159.5 - <Worksheet "Abril 1897"> Dia: 7
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 215.4 - <Worksheet "Abril 1897"> Dia: 8
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 164.0 - <Worksheet "Abril 1897"> Dia: 9
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 195.6 - <Worksheet "Abril 1897"> Dia: 10
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 305.3 - <Worksheet "Abril 1897"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 154.4 - <Worksheet "Abril 1897"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 178.1 - <Worksheet "Abril 1897"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 202.1 - <Worksheet "Abril 1897"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 185.5 - <Worksheet "Abril 1897"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 173.6 - <Worksheet "Abril 1897"> Dia: 24
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 277.2 - <Worksheet "Abril 1897"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 355.2 - <Worksheet "Abril 1897"> Dia: 26
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 266.6 - <Worksheet "Abril 1897"> Dia: 27
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 218.3 - <Worksheet "Maio 1897"> Dia: 7
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 169.6 - <Worksheet "Maio 1897"> Dia: 8
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 244.1 - <Worksheet "Maio 1897"> Dia: 9
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 226.5 - <Worksheet "Maio 1897"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 173.6 - <Worksheet "Maio 1897"> Dia: 27
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 164.9 - <Worksheet "Maio 1897"> Dia: 28
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 276.1 - <Worksheet "Maio 1897"> Dia: 29
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 204.9 - <Worksheet "Maio 1897"> Dia: 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 150.4 - <Worksheet "Junho 1897"> Dia: 2
+Valor Suspeito Tensao Vapor (15H): 17.67 - <Worksheet "Junho 1897"> Dia: 10
+Valor Suspeito Tensao Vapor (9H): 18.39 - <Worksheet "Junho 1897"> Dia: 12
+Valor Suspeito Tensao Vapor (12H): 17.75 - <Worksheet "Junho 1897"> Dia: 12
+Valor Suspeito Tensao Vapor (15H): 18.39 - <Worksheet "Junho 1897"> Dia: 12
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 160.5 - <Worksheet "Junho 1897"> Dia: 20
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 250.7 - <Worksheet "Junho 1897"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 165.4 - <Worksheet "Junho 1897"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 199.5 - <Worksheet "Junho 1897"> Dia: 28
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 187.8 - <Worksheet "Julho 1897"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 250.4 - <Worksheet "Julho 1897"> Dia: 2
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 225.8 - <Worksheet "Julho 1897"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 218.7 - <Worksheet "Julho 1897"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 161.0 - <Worksheet "Julho 1897"> Dia: 6
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 415.2 - <Worksheet "Julho 1897"> Dia: 7
+Valor Suspeito Velocidade Horaria  do Vento (15H): 17.3 - <Worksheet "Julho 1897"> Dia: 7
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 154.0 - <Worksheet "Julho 1897"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 179.2 - <Worksheet "Julho 1897"> Dia: 19
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 196.0 - <Worksheet "Julho 1897"> Dia: 20
+Valor Suspeito Tensao Vapor (12H): 17.25 - <Worksheet "Julho 1897"> Dia: 23
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 181.0 - <Worksheet "Julho 1897"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 170.0 - <Worksheet "Julho 1897"> Dia: 26
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 238.0 - <Worksheet "Julho 1897"> Dia: 27
+Valor Suspeito Tensao Vapor (15H): 17.73 - <Worksheet "Julho 1897"> Dia: 28
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 164.5 - <Worksheet "Julho 1897"> Dia: 28
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 263.7 - <Worksheet "Julho 1897"> Dia: 29
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 227.3 - <Worksheet "Julho 1897"> Dia: 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 183.1 - <Worksheet "Agosto 1897"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 180.8 - <Worksheet "Agosto 1897"> Dia: 12
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 186.8 - <Worksheet "Agosto 1897"> Dia: 15
+Valor Suspeito Tensao Vapor (9H): 17.15 - <Worksheet "Agosto 1897"> Dia: 16
+Valor Suspeito Tensao Vapor (12H): 17.21 - <Worksheet "Agosto 1897"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 245.6 - <Worksheet "Agosto 1897"> Dia: 19
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 174.9 - <Worksheet "Agosto 1897"> Dia: 23
+Valor Suspeito Tensao Vapor (15H): 17.0 - <Worksheet "Agosto 1897"> Dia: 27
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 208.7 - <Worksheet "Setembro 1897"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 157.4 - <Worksheet "Setembro 1897"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 163.6 - <Worksheet "Setembro 1897"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 220.7 - <Worksheet "Setembro 1897"> Dia: 12
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 227.8 - <Worksheet "Setembro 1897"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 2121.2 - <Worksheet "Setembro 1897"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 187.4 - <Worksheet "Setembro 1897"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 154.0 - <Worksheet "Setembro 1897"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 229.6 - <Worksheet "Setembro 1897"> Dia: 20
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 213.7 - <Worksheet "Outubro 1887"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 154.1 - <Worksheet "Outubro 1887"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 153.5 - <Worksheet "Outubro 1887"> Dia: 6
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 186.4 - <Worksheet "Outubro 1887"> Dia: 7
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 204.0 - <Worksheet "Outubro 1887"> Dia: 9
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 172.4 - <Worksheet "Outubro 1887"> Dia: 10
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 223.1 - <Worksheet "Outubro 1887"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 277.1 - <Worksheet "Outubro 1887"> Dia: 17
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 163.7 - <Worksheet "Outubro 1887"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 235.7 - <Worksheet "Outubro 1887"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 163.6 - <Worksheet "Outubro 1887"> Dia: 29
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 168.8 - <Worksheet "Outubro 1887"> Dia: 31
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 181.9 - <Worksheet "Novembro 1897"> Dia: 2
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 158.7 - <Worksheet "Novembro 1897"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 176.6 - <Worksheet "Novembro 1897"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 227.0 - <Worksheet "Novembro 1897"> Dia: 6
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 237.6 - <Worksheet "Novembro 1897"> Dia: 7
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 194.6 - <Worksheet "Novembro 1897"> Dia: 8
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 152.8 - <Worksheet "Novembro 1897"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 179.7 - <Worksheet "Novembro 1897"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 172.8 - <Worksheet "Novembro 1897"> Dia: 17
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 219.2 - <Worksheet "Novembro 1897"> Dia: 26
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 197.7 - <Worksheet "Novembro 1897"> Dia: 27
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 189.1 - <Worksheet "Dezembro 1897"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 206.6 - <Worksheet "Dezembro 1897"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 313.2 - <Worksheet "Dezembro 1897"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 181.9 - <Worksheet "Dezembro 1897"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 340.0 - <Worksheet "Dezembro 1897"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 316.3 - <Worksheet "Dezembro 1897"> Dia: 17
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 318.4 - <Worksheet "Dezembro 1897"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 155.4 - <Worksheet "Dezembro 1897"> Dia: 19
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 171.1 - <Worksheet "Dezembro 1897"> Dia: 24
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 181.4 - <Worksheet "Dezembro 1897"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 167.0 - <Worksheet "Dezembro 1897"> Dia: 27
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 156.3 - <Worksheet "Dezembro 1897"> Dia: 29
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 467.0 - <Worksheet "Dezembro 1897"> Dia: 30
+Valor Suspeito Velocidade Horaria  do Vento (15H): 19.4 - <Worksheet "Dezembro 1897"> Dia: 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 358.5 - <Worksheet "Dezembro 1897"> Dia: 31
+1890 - 1898/REGISTOS METEOROLOGICOS 1897.xlsx
+----------------------------
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 151.7 - <Worksheet "Janeiro 1894"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 335.6 - <Worksheet "Janeiro 1894"> Dia: 8
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 291.8 - <Worksheet "Janeiro 1894"> Dia: 9
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 344.0 - <Worksheet "Janeiro 1894"> Dia: 10
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 443.3 - <Worksheet "Janeiro 1894"> Dia: 11
+Valor Suspeito Velocidade Horaria  do Vento (15H): 18.4 - <Worksheet "Janeiro 1894"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 202.7 - <Worksheet "Janeiro 1894"> Dia: 12
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 414.7 - <Worksheet "Janeiro 1894"> Dia: 13
+Valor Suspeito Velocidade Horaria  do Vento (15H): 17.2 - <Worksheet "Janeiro 1894"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 179.7 - <Worksheet "Janeiro 1894"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 242.1 - <Worksheet "Janeiro 1894"> Dia: 17
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 302.5 - <Worksheet "Janeiro 1894"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 259.5 - <Worksheet "Janeiro 1894"> Dia: 31
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 150.1 - <Worksheet "Fevereiro 1894"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 249.5 - <Worksheet "Fevereiro 1894"> Dia: 19
+Valor Suspeito Temperatura (12H): 147.0 - <Worksheet "Fevereiro 1894"> Dia: 20
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 215.2 - <Worksheet "Fevereiro 1894"> Dia: 20
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 288.5 - <Worksheet "Fevereiro 1894"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 237.8 - <Worksheet "Fevereiro 1894"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 181.2 - <Worksheet "Mar\xe7o 1894"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 201.3 - <Worksheet "Mar\xe7o 1894"> Dia: 6
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 199.0 - <Worksheet "Mar\xe7o 1894"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 247.8 - <Worksheet "Mar\xe7o 1894"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 194.0 - <Worksheet "Mar\xe7o 1894"> Dia: 19
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 182.4 - <Worksheet "Mar\xe7o 1894"> Dia: 20
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 170.8 - <Worksheet "Mar\xe7o 1894"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 261.8 - <Worksheet "Mar\xe7o 1894"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 185.0 - <Worksheet "Mar\xe7o 1894"> Dia: 24
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 295.1 - <Worksheet "Mar\xe7o 1894"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 171.2 - <Worksheet "Mar\xe7o 1894"> Dia: 27
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 221.2 - <Worksheet "Mar\xe7o 1894"> Dia: 28
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 256.0 - <Worksheet "Mar\xe7o 1894"> Dia: 29
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 218.9 - <Worksheet "Mar\xe7o 1894"> Dia: 31
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 186.4 - <Worksheet "Abril 1894"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 222.1 - <Worksheet "Abril 1894"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 168.1 - <Worksheet "Abril 1894"> Dia: 7
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 169.8 - <Worksheet "Abril 1894"> Dia: 12
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 169.1 - <Worksheet "Abril 1894"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 395.6 - <Worksheet "Abril 1894"> Dia: 14
+Valor Suspeito Velocidade Horaria  do Vento (15H): 16.4 - <Worksheet "Abril 1894"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 263.4 - <Worksheet "Abril 1894"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 294.0 - <Worksheet "Abril 1894"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 294.0 - <Worksheet "Abril 1894"> Dia: 17
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 188.4 - <Worksheet "Abril 1894"> Dia: 19
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 204.6 - <Worksheet "Abril 1894"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 172.0 - <Worksheet "Abril 1894"> Dia: 23
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 274.0 - <Worksheet "Abril 1894"> Dia: 24
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 339.3 - <Worksheet "Abril 1894"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 314.9 - <Worksheet "Abril 1894"> Dia: 26
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 211.4 - <Worksheet "Abril 1894"> Dia: 29
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 187.6 - <Worksheet "Abril 1894"> Dia: 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 203.5 - <Worksheet "Maio 1894"> Dia: 2
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 196.0 - <Worksheet "Maio 1894"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 192.3 - <Worksheet "Maio 1894"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 158.5 - <Worksheet "Maio 1894"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 230.0 - <Worksheet "Maio 1894"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 391.9 - <Worksheet "Maio 1894"> Dia: 22
+Valor Suspeito Velocidade Horaria  do Vento (15H): 16.3 - <Worksheet "Maio 1894"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 318.1 - <Worksheet "Maio 1894"> Dia: 23
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 225.9 - <Worksheet "Maio 1894"> Dia: 24
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 204.2 - <Worksheet "Maio 1894"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 280.7 - <Worksheet "Junho 1894"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 306.4 - <Worksheet "Junho 1894"> Dia: 6
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 185.4 - <Worksheet "Junho 1894"> Dia: 10
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 194.5 - <Worksheet "Junho 1894"> Dia: 12
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 235.4 - <Worksheet "Junho 1894"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 182.1 - <Worksheet "Junho 1894"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 220.8 - <Worksheet "Junho 1894"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 172.2 - <Worksheet "Junho 1894"> Dia: 16
+Valor Suspeito Tensao Vapor (15H): 22.06 - <Worksheet "Junho 1894"> Dia: 20
+Valor Suspeito Tensao Vapor (15H): 17.69 - <Worksheet "Junho 1894"> Dia: 25
+Valor Suspeito Tensao Vapor (12H): 17.44 - <Worksheet "Junho 1894"> Dia: 26
+Valor Suspeito Tensao Vapor (9H): 17.39 - <Worksheet "Julho 1894"> Dia: 9
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 190.1 - <Worksheet "Julho 1894"> Dia: 10
+Valor Suspeito Tensao Vapor (15H): 18.36 - <Worksheet "Julho 1894"> Dia: 16
+Valor Suspeito Tensao Vapor (12H): 18.42 - <Worksheet "Julho 1894"> Dia: 17
+Valor Suspeito Tensao Vapor (15H): 17.31 - <Worksheet "Julho 1894"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 164.2 - <Worksheet "Julho 1894"> Dia: 19
+Valor Suspeito Tensao Vapor (15H): 18.4 - <Worksheet "Julho 1894"> Dia: 20
+Valor Suspeito Tensao Vapor (15H): 17.38 - <Worksheet "Agosto 1894"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 187.1 - <Worksheet "Agosto 1894"> Dia: 3
+Valor Suspeito Tensao Vapor (15H): 17.01 - <Worksheet "Agosto 1894"> Dia: 8
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 174.0 - <Worksheet "Agosto 1894"> Dia: 9
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 309.7 - <Worksheet "Agosto 1894"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 279.0 - <Worksheet "Agosto 1894"> Dia: 12
+Valor Suspeito Tensao Vapor (12H): 17.31 - <Worksheet "Agosto 1894"> Dia: 13
+Valor Suspeito Tensao Vapor (15H): 18.26 - <Worksheet "Agosto 1894"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 204.1 - <Worksheet "Agosto 1894"> Dia: 17
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 189.3 - <Worksheet "Agosto 1894"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 191.7 - <Worksheet "Agosto 1894"> Dia: 26
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 158.1 - <Worksheet "Setembro 1894"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 184.5 - <Worksheet "Setembro 1894"> Dia: 7
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 150.8 - <Worksheet "Setembro 1894"> Dia: 8
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 166.8 - <Worksheet "Setembro 1894"> Dia: 9
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 306.3 - <Worksheet "Setembro 1894"> Dia: 10
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 272.9 - <Worksheet "Setembro 1894"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 158.7 - <Worksheet "Setembro 1894"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 168.6 - <Worksheet "Setembro 1894"> Dia: 20
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 252.9 - <Worksheet "Setembro 1894"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 265.5 - <Worksheet "Setembro 1894"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 278.6 - <Worksheet "Setembro 1894"> Dia: 24
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 391.2 - <Worksheet "Setembro 1894"> Dia: 25
+Valor Suspeito Velocidade Horaria  do Vento (15H): 16.3 - <Worksheet "Setembro 1894"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 151.7 - <Worksheet "Setembro 1894"> Dia: 28
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 192.9 - <Worksheet "Outubro 1884"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 163.1 - <Worksheet "Outubro 1884"> Dia: 2
+Valor Suspeito Tensao Vapor (15H): 17.74 - <Worksheet "Outubro 1884"> Dia: 10
+Valor Suspeito Tensao Vapor (12H): 17.2 - <Worksheet "Outubro 1884"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 209.4 - <Worksheet "Outubro 1884"> Dia: 17
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 201.9 - <Worksheet "Outubro 1884"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 163.9 - <Worksheet "Outubro 1884"> Dia: 20
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 156.4 - <Worksheet "Outubro 1884"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 309.3 - <Worksheet "Outubro 1884"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 360.6 - <Worksheet "Outubro 1884"> Dia: 24
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 375.0 - <Worksheet "Outubro 1884"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 250.8 - <Worksheet "Outubro 1884"> Dia: 26
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 205.1 - <Worksheet "Outubro 1884"> Dia: 27
+Celula vazia: <Worksheet "Novembro 1894"> Dia: 1 Hora 15 Coluna 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 202.0 - <Worksheet "Novembro 1894"> Dia: 2
+Celula vazia: <Worksheet "Novembro 1894"> Dia: 2 Hora 15 Coluna 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 199.3 - <Worksheet "Novembro 1894"> Dia: 3
+Celula vazia: <Worksheet "Novembro 1894"> Dia: 3 Hora 15 Coluna 30
+Celula vazia: <Worksheet "Novembro 1894"> Dia: 4 Hora 15 Coluna 30
+Celula vazia: <Worksheet "Novembro 1894"> Dia: 5 Hora 15 Coluna 30
+Celula vazia: <Worksheet "Novembro 1894"> Dia: 6 Hora 15 Coluna 30
+Celula vazia: <Worksheet "Novembro 1894"> Dia: 7 Hora 15 Coluna 30
+Celula vazia: <Worksheet "Novembro 1894"> Dia: 8 Hora 15 Coluna 30
+Celula vazia: <Worksheet "Novembro 1894"> Dia: 9 Hora 15 Coluna 30
+Celula vazia: <Worksheet "Novembro 1894"> Dia: 10 Hora 15 Coluna 30
+Celula vazia: <Worksheet "Novembro 1894"> Dia: 11 Hora 15 Coluna 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 180.6 - <Worksheet "Novembro 1894"> Dia: 12
+Celula vazia: <Worksheet "Novembro 1894"> Dia: 12 Hora 15 Coluna 30
+Celula vazia: <Worksheet "Novembro 1894"> Dia: 13 Hora 15 Coluna 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 182.3 - <Worksheet "Novembro 1894"> Dia: 14
+Celula vazia: <Worksheet "Novembro 1894"> Dia: 14 Hora 15 Coluna 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 158.3 - <Worksheet "Novembro 1894"> Dia: 15
+Celula vazia: <Worksheet "Novembro 1894"> Dia: 15 Hora 15 Coluna 30
+Formato de Valor incorrecto: <Worksheet "Novembro 1894"> Dia: 16 Hora :12 Coluna 15
+Celula vazia: <Worksheet "Novembro 1894"> Dia: 16 Hora 15 Coluna 30
+Celula vazia: <Worksheet "Novembro 1894"> Dia: 17 Hora 15 Coluna 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 216.1 - <Worksheet "Novembro 1894"> Dia: 18
+Celula vazia: <Worksheet "Novembro 1894"> Dia: 18 Hora 15 Coluna 30
+Celula vazia: <Worksheet "Novembro 1894"> Dia: 19 Hora 15 Coluna 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 178.5 - <Worksheet "Novembro 1894"> Dia: 20
+Celula vazia: <Worksheet "Novembro 1894"> Dia: 20 Hora 15 Coluna 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 206.2 - <Worksheet "Novembro 1894"> Dia: 21
+Celula vazia: <Worksheet "Novembro 1894"> Dia: 21 Hora 15 Coluna 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 194.2 - <Worksheet "Novembro 1894"> Dia: 22
+Celula vazia: <Worksheet "Novembro 1894"> Dia: 22 Hora 15 Coluna 30
+Celula vazia: <Worksheet "Novembro 1894"> Dia: 23 Hora 15 Coluna 30
+Celula vazia: <Worksheet "Novembro 1894"> Dia: 24 Hora 15 Coluna 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 164.9 - <Worksheet "Novembro 1894"> Dia: 25
+Celula vazia: <Worksheet "Novembro 1894"> Dia: 25 Hora 15 Coluna 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 223.0 - <Worksheet "Novembro 1894"> Dia: 26
+Celula vazia: <Worksheet "Novembro 1894"> Dia: 26 Hora 15 Coluna 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 313.2 - <Worksheet "Novembro 1894"> Dia: 27
+Celula vazia: <Worksheet "Novembro 1894"> Dia: 27 Hora 15 Coluna 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 331.4 - <Worksheet "Novembro 1894"> Dia: 28
+Celula vazia: <Worksheet "Novembro 1894"> Dia: 28 Hora 15 Coluna 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 314.1 - <Worksheet "Novembro 1894"> Dia: 29
+Celula vazia: <Worksheet "Novembro 1894"> Dia: 29 Hora 15 Coluna 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 237.0 - <Worksheet "Novembro 1894"> Dia: 30
+Celula vazia: <Worksheet "Novembro 1894"> Dia: 30 Hora 15 Coluna 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 344.6 - <Worksheet "Dezembro 1894"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 282.5 - <Worksheet "Dezembro 1894"> Dia: 2
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 224.8 - <Worksheet "Dezembro 1894"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 188.6 - <Worksheet "Dezembro 1894"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 165.5 - <Worksheet "Dezembro 1894"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 205.1 - <Worksheet "Dezembro 1894"> Dia: 26
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 225.5 - <Worksheet "Dezembro 1894"> Dia: 27
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 241.5 - <Worksheet "Dezembro 1894"> Dia: 31
+1890 - 1898/REGISTOS METEOROLOGICOS 1894.xlsx
+----------------------------
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 151.3 - <Worksheet "Janeiro 1895"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 305.0 - <Worksheet "Janeiro 1895"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 213.4 - <Worksheet "Janeiro 1895"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 306.9 - <Worksheet "Janeiro 1895"> Dia: 7
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 164.5 - <Worksheet "Janeiro 1895"> Dia: 8
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 340.6 - <Worksheet "Janeiro 1895"> Dia: 10
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 421.4 - <Worksheet "Janeiro 1895"> Dia: 12
+Valor Suspeito Velocidade Horaria  do Vento (15H): 17.5 - <Worksheet "Janeiro 1895"> Dia: 12
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 407.3 - <Worksheet "Janeiro 1895"> Dia: 13
+Valor Suspeito Velocidade Horaria  do Vento (15H): 16.9 - <Worksheet "Janeiro 1895"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 200.6 - <Worksheet "Janeiro 1895"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 336.6 - <Worksheet "Janeiro 1895"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 311.5 - <Worksheet "Janeiro 1895"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 246.5 - <Worksheet "Janeiro 1895"> Dia: 17
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 447.2 - <Worksheet "Janeiro 1895"> Dia: 19
+Valor Suspeito Velocidade Horaria  do Vento (15H): 18.6 - <Worksheet "Janeiro 1895"> Dia: 19
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 332.4 - <Worksheet "Janeiro 1895"> Dia: 20
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 301.4 - <Worksheet "Janeiro 1895"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 293.6 - <Worksheet "Janeiro 1895"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 222.6 - <Worksheet "Janeiro 1895"> Dia: 31
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 188.0 - <Worksheet "Fevereiro 1895"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 335.1 - <Worksheet "Fevereiro 1895"> Dia: 2
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 342.2 - <Worksheet "Fevereiro 1895"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 338.6 - <Worksheet "Fevereiro 1895"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 238.5 - <Worksheet "Fevereiro 1895"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 258.8 - <Worksheet "Fevereiro 1895"> Dia: 6
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 168.6 - <Worksheet "Fevereiro 1895"> Dia: 7
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 209.2 - <Worksheet "Fevereiro 1895"> Dia: 9
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 368.5 - <Worksheet "Fevereiro 1895"> Dia: 10
+Valor Suspeito Velocidade Horaria  do Vento (15H): 15.3 - <Worksheet "Fevereiro 1895"> Dia: 10
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 299.1 - <Worksheet "Fevereiro 1895"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 192.7 - <Worksheet "Fevereiro 1895"> Dia: 12
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 236.8 - <Worksheet "Fevereiro 1895"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 306.0 - <Worksheet "Fevereiro 1895"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 195.3 - <Worksheet "Fevereiro 1895"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 176.3 - <Worksheet "Fevereiro 1895"> Dia: 19
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 279.7 - <Worksheet "Fevereiro 1895"> Dia: 20
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 159.7 - <Worksheet "Fevereiro 1895"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 332.7 - <Worksheet "Fevereiro 1895"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 329.6 - <Worksheet "Fevereiro 1895"> Dia: 24
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 173.2 - <Worksheet "Fevereiro 1895"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 262.3 - <Worksheet "Mar\xe7o 1895"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 274.3 - <Worksheet "Mar\xe7o 1895"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 169.1 - <Worksheet "Mar\xe7o 1895"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 189.8 - <Worksheet "Mar\xe7o 1895"> Dia: 8
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 262.2 - <Worksheet "Mar\xe7o 1895"> Dia: 9
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 157.4 - <Worksheet "Mar\xe7o 1895"> Dia: 10
+Valor Suspeito Tensao Vapor (12H): 71.7 - <Worksheet "Mar\xe7o 1895"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 379.0 - <Worksheet "Mar\xe7o 1895"> Dia: 11
+Valor Suspeito Velocidade Horaria  do Vento (15H): 16.5 - <Worksheet "Mar\xe7o 1895"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 206.6 - <Worksheet "Mar\xe7o 1895"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 195.7 - <Worksheet "Mar\xe7o 1895"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 162.9 - <Worksheet "Mar\xe7o 1895"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 155.5 - <Worksheet "Mar\xe7o 1895"> Dia: 19
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 195.1 - <Worksheet "Mar\xe7o 1895"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 320.3 - <Worksheet "Mar\xe7o 1895"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 363.9 - <Worksheet "Mar\xe7o 1895"> Dia: 27
+Valor Suspeito Velocidade Horaria  do Vento (15H): 15.1 - <Worksheet "Mar\xe7o 1895"> Dia: 27
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 309.4 - <Worksheet "Mar\xe7o 1895"> Dia: 28
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 216.7 - <Worksheet "Abril 1895"> Dia: 5
+Valor Suspeito Pressao (15H): 74.36 - <Worksheet "Abril 1895"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 198.6 - <Worksheet "Abril 1895"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 250.9 - <Worksheet "Abril 1895"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 292.2 - <Worksheet "Abril 1895"> Dia: 17
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 211.4 - <Worksheet "Abril 1895"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 186.7 - <Worksheet "Abril 1895"> Dia: 20
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 205.5 - <Worksheet "Abril 1895"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 158.2 - <Worksheet "Abril 1895"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 303.8 - <Worksheet "Abril 1895"> Dia: 23
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 373.0 - <Worksheet "Abril 1895"> Dia: 24
+Valor Suspeito Velocidade Horaria  do Vento (15H): 15.5 - <Worksheet "Abril 1895"> Dia: 24
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 348.1 - <Worksheet "Abril 1895"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 215.7 - <Worksheet "Abril 1895"> Dia: 26
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 189.2 - <Worksheet "Abril 1895"> Dia: 27
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 193.3 - <Worksheet "Abril 1895"> Dia: 28
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 164.7 - <Worksheet "Abril 1895"> Dia: 29
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 192.4 - <Worksheet "Maio 1895"> Dia: 2
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 156.1 - <Worksheet "Maio 1895"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 176.7 - <Worksheet "Maio 1895"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 164.0 - <Worksheet "Maio 1895"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 162.3 - <Worksheet "Maio 1895"> Dia: 6
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 157.6 - <Worksheet "Maio 1895"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 230.5 - <Worksheet "Maio 1895"> Dia: 23
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 178.5 - <Worksheet "Maio 1895"> Dia: 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 203.6 - <Worksheet "Maio 1895"> Dia: 31
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 183.4 - <Worksheet "Junho 1895"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 168.8 - <Worksheet "Junho 1895"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 198.8 - <Worksheet "Junho 1895"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 761.5 - <Worksheet "Junho 1895"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 186.7 - <Worksheet "Junho 1895"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 184.5 - <Worksheet "Junho 1895"> Dia: 12
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 168.3 - <Worksheet "Junho 1895"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 273.2 - <Worksheet "Junho 1895"> Dia: 18
+Valor Suspeito Tensao Vapor (12H): 18.27 - <Worksheet "Junho 1895"> Dia: 21
+Valor Suspeito Tensao Vapor (15H): 19.9 - <Worksheet "Junho 1895"> Dia: 22
+Valor Suspeito Tensao Vapor (12H): 18.35 - <Worksheet "Junho 1895"> Dia: 23
+Valor Suspeito Tensao Vapor (15H): 18.74 - <Worksheet "Junho 1895"> Dia: 23
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 275.7 - <Worksheet "Junho 1895"> Dia: 23
+Valor Suspeito Tensao Vapor (12H): 19.21 - <Worksheet "Junho 1895"> Dia: 24
+Valor Suspeito Tensao Vapor (15H): 20.41 - <Worksheet "Junho 1895"> Dia: 24
+Valor Suspeito Tensao Vapor (12H): 22.71 - <Worksheet "Junho 1895"> Dia: 25
+Valor Suspeito Tensao Vapor (15H): 19.28 - <Worksheet "Junho 1895"> Dia: 25
+Valor Suspeito Tensao Vapor (12H): 17.02 - <Worksheet "Junho 1895"> Dia: 26
+Valor Suspeito Tensao Vapor (9H): 17.27 - <Worksheet "Junho 1895"> Dia: 27
+Valor Suspeito Tensao Vapor (12H): 17.56 - <Worksheet "Junho 1895"> Dia: 27
+Valor Suspeito Tensao Vapor (15H): 17.5 - <Worksheet "Junho 1895"> Dia: 27
+Valor Suspeito Tensao Vapor (15H): 17.31 - <Worksheet "Julho 1895"> Dia: 3
+Valor Suspeito Tensao Vapor (12H): 18.53 - <Worksheet "Julho 1895"> Dia: 5
+Valor Suspeito Tensao Vapor (15H): 17.75 - <Worksheet "Julho 1895"> Dia: 5
+Valor Suspeito Tensao Vapor (12H): 19.11 - <Worksheet "Julho 1895"> Dia: 6
+Valor Suspeito Tensao Vapor (12H): 17.57 - <Worksheet "Julho 1895"> Dia: 7
+Valor Suspeito Tensao Vapor (15H): 17.8 - <Worksheet "Julho 1895"> Dia: 7
+Valor Suspeito Tensao Vapor (12H): 17.0 - <Worksheet "Julho 1895"> Dia: 9
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 209.0 - <Worksheet "Julho 1895"> Dia: 12
+Valor Suspeito Tensao Vapor (15H): 17.07 - <Worksheet "Julho 1895"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 177.2 - <Worksheet "Julho 1895"> Dia: 18
+Valor Suspeito Tensao Vapor (12H): 18.18 - <Worksheet "Julho 1895"> Dia: 24
+Valor Suspeito Tensao Vapor (15H): 17.97 - <Worksheet "Julho 1895"> Dia: 24
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 197.5 - <Worksheet "Agosto 1895"> Dia: 5
+Valor Suspeito Tensao Vapor (12H): 17.14 - <Worksheet "Agosto 1895"> Dia: 8
+Valor Suspeito Tensao Vapor (15H): 17.11 - <Worksheet "Agosto 1895"> Dia: 10
+Valor Suspeito Tensao Vapor (12H): 18.47 - <Worksheet "Agosto 1895"> Dia: 14
+Valor Suspeito Tensao Vapor (15H): 19.09 - <Worksheet "Agosto 1895"> Dia: 14
+Valor Suspeito Tensao Vapor (9H): 19.59 - <Worksheet "Agosto 1895"> Dia: 15
+Valor Suspeito Tensao Vapor (12H): 19.47 - <Worksheet "Agosto 1895"> Dia: 15
+Valor Suspeito Tensao Vapor (15H): 18.79 - <Worksheet "Agosto 1895"> Dia: 15
+Valor Suspeito Tensao Vapor (15H): 17.02 - <Worksheet "Agosto 1895"> Dia: 16
+Valor Suspeito Tensao Vapor (12H): 17.69 - <Worksheet "Agosto 1895"> Dia: 19
+Valor Suspeito Tensao Vapor (15H): 19.44 - <Worksheet "Agosto 1895"> Dia: 19
+Valor Suspeito Tensao Vapor (9H): 18.09 - <Worksheet "Agosto 1895"> Dia: 20
+Valor Suspeito Tensao Vapor (15H): 17.44 - <Worksheet "Agosto 1895"> Dia: 20
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 186.6 - <Worksheet "Agosto 1895"> Dia: 25
+Valor Suspeito Tensao Vapor (9H): 17.85 - <Worksheet "Agosto 1895"> Dia: 28
+Valor Suspeito Tensao Vapor (12H): 17.94 - <Worksheet "Agosto 1895"> Dia: 28
+Valor Suspeito Tensao Vapor (15H): 18.4 - <Worksheet "Agosto 1895"> Dia: 28
+Valor Suspeito Tensao Vapor (15H): 19.96 - <Worksheet "Agosto 1895"> Dia: 29
+Valor Suspeito Tensao Vapor (12H): 17.45 - <Worksheet "Agosto 1895"> Dia: 30
+Valor Suspeito Tensao Vapor (15H): 18.43 - <Worksheet "Agosto 1895"> Dia: 30
+Valor Suspeito Tensao Vapor (15H): 17.94 - <Worksheet "Setembro 1895"> Dia: 5
+Valor Suspeito Tensao Vapor (12H): 18.47 - <Worksheet "Setembro 1895"> Dia: 7
+Valor Suspeito Tensao Vapor (15H): 17.0 - <Worksheet "Setembro 1895"> Dia: 8
+Valor Suspeito Tensao Vapor (12H): 17.45 - <Worksheet "Setembro 1895"> Dia: 10
+Valor Suspeito Tensao Vapor (15H): 18.37 - <Worksheet "Setembro 1895"> Dia: 10
+Valor Suspeito Tensao Vapor (12H): 17.8 - <Worksheet "Setembro 1895"> Dia: 12
+Valor Suspeito Tensao Vapor (15H): 17.81 - <Worksheet "Setembro 1895"> Dia: 12
+Valor Suspeito Tensao Vapor (12H): 19.04 - <Worksheet "Setembro 1895"> Dia: 13
+Valor Suspeito Tensao Vapor (15H): 19.43 - <Worksheet "Setembro 1895"> Dia: 13
+Valor Suspeito Tensao Vapor (15H): 17.56 - <Worksheet "Setembro 1895"> Dia: 14
+Valor Suspeito Tensao Vapor (15H): 17.38 - <Worksheet "Setembro 1895"> Dia: 16
+Valor Suspeito Tensao Vapor (12H): 18.0 - <Worksheet "Setembro 1895"> Dia: 17
+Valor Suspeito Tensao Vapor (15H): 17.19 - <Worksheet "Setembro 1895"> Dia: 17
+Valor Suspeito Tensao Vapor (12H): 17.38 - <Worksheet "Setembro 1895"> Dia: 18
+Valor Suspeito Tensao Vapor (15H): 17.13 - <Worksheet "Setembro 1895"> Dia: 20
+Valor Suspeito Tensao Vapor (12H): 17.07 - <Worksheet "Setembro 1895"> Dia: 21
+Valor Suspeito Tensao Vapor (15H): 18.06 - <Worksheet "Setembro 1895"> Dia: 21
+Valor Suspeito Tensao Vapor (12H): 17.56 - <Worksheet "Setembro 1895"> Dia: 24
+Valor Suspeito Tensao Vapor (15H): 17.75 - <Worksheet "Setembro 1895"> Dia: 24
+Valor Suspeito Tensao Vapor (12H): 19.43 - <Worksheet "Setembro 1895"> Dia: 25
+Valor Suspeito Tensao Vapor (15H): 20.15 - <Worksheet "Setembro 1895"> Dia: 25
+Valor Suspeito Tensao Vapor (9H): 18.17 - <Worksheet "Setembro 1895"> Dia: 26
+Valor Suspeito Tensao Vapor (12H): 19.46 - <Worksheet "Setembro 1895"> Dia: 26
+Valor Suspeito Tensao Vapor (15H): 18.32 - <Worksheet "Setembro 1895"> Dia: 26
+Valor Suspeito Tensao Vapor (15H): 17.2 - <Worksheet "Setembro 1895"> Dia: 27
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 157.3 - <Worksheet "Setembro 1895"> Dia: 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 189.2 - <Worksheet "Outubro 1885"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 183.0 - <Worksheet "Outubro 1885"> Dia: 2
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 159.9 - <Worksheet "Outubro 1885"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 202.5 - <Worksheet "Outubro 1885"> Dia: 7
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 196.8 - <Worksheet "Outubro 1885"> Dia: 8
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 205.0 - <Worksheet "Outubro 1885"> Dia: 10
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 192.6 - <Worksheet "Outubro 1885"> Dia: 12
+Valor Suspeito Tensao Vapor (15H): 17.13 - <Worksheet "Outubro 1885"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 157.4 - <Worksheet "Outubro 1885"> Dia: 14
+Valor Suspeito Tensao Vapor (12H): 17.13 - <Worksheet "Outubro 1885"> Dia: 16
+Valor Suspeito Tensao Vapor (15H): 18.23 - <Worksheet "Outubro 1885"> Dia: 16
+Valor Suspeito Tensao Vapor (9H): 17.33 - <Worksheet "Outubro 1885"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 245.9 - <Worksheet "Outubro 1885"> Dia: 18
+Valor Suspeito Tensao Vapor (15H): 17.08 - <Worksheet "Outubro 1885"> Dia: 20
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 260.7 - <Worksheet "Outubro 1885"> Dia: 23
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 283.8 - <Worksheet "Outubro 1885"> Dia: 24
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 280.4 - <Worksheet "Outubro 1885"> Dia: 27
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 269.3 - <Worksheet "Outubro 1885"> Dia: 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 199.9 - <Worksheet "Novembro 1895"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 190.8 - <Worksheet "Novembro 1895"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 178.1 - <Worksheet "Novembro 1895"> Dia: 6
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 281.0 - <Worksheet "Novembro 1895"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 394.9 - <Worksheet "Novembro 1895"> Dia: 12
+Valor Suspeito Velocidade Horaria  do Vento (15H): 16.4 - <Worksheet "Novembro 1895"> Dia: 12
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 349.4 - <Worksheet "Novembro 1895"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 223.4 - <Worksheet "Novembro 1895"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 173.5 - <Worksheet "Novembro 1895"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 190.0 - <Worksheet "Novembro 1895"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 171.5 - <Worksheet "Novembro 1895"> Dia: 19
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 238.6 - <Worksheet "Novembro 1895"> Dia: 20
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 383.7 - <Worksheet "Novembro 1895"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 230.3 - <Worksheet "Novembro 1895"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 364.8 - <Worksheet "Novembro 1895"> Dia: 26
+Valor Suspeito Velocidade Horaria  do Vento (15H): 15.2 - <Worksheet "Novembro 1895"> Dia: 26
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 320.0 - <Worksheet "Novembro 1895"> Dia: 27
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 166.1 - <Worksheet "Novembro 1895"> Dia: 28
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 220.4 - <Worksheet "Dezembro 1895"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 352.0 - <Worksheet "Dezembro 1895"> Dia: 2
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 232.8 - <Worksheet "Dezembro 1895"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 152.2 - <Worksheet "Dezembro 1895"> Dia: 8
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 213.3 - <Worksheet "Dezembro 1895"> Dia: 9
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 159.8 - <Worksheet "Dezembro 1895"> Dia: 10
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 167.1 - <Worksheet "Dezembro 1895"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 182.3 - <Worksheet "Dezembro 1895"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 327.3 - <Worksheet "Dezembro 1895"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 438.8 - <Worksheet "Dezembro 1895"> Dia: 23
+Valor Suspeito Velocidade Horaria  do Vento (15H): 18.2 - <Worksheet "Dezembro 1895"> Dia: 23
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 398.2 - <Worksheet "Dezembro 1895"> Dia: 24
+Valor Suspeito Velocidade Horaria  do Vento (15H): 16.5 - <Worksheet "Dezembro 1895"> Dia: 24
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 264.8 - <Worksheet "Dezembro 1895"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 303.9 - <Worksheet "Dezembro 1895"> Dia: 26
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 177.0 - <Worksheet "Dezembro 1895"> Dia: 27
+1890 - 1898/REGISTOS METEOROLOGICOS 1895.xlsx
+----------------------------
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 205.5 - <Worksheet "Janeiro 1893"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 152.1 - <Worksheet "Janeiro 1893"> Dia: 6
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 237.0 - <Worksheet "Janeiro 1893"> Dia: 7
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 155.0 - <Worksheet "Janeiro 1893"> Dia: 8
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 374.3 - <Worksheet "Janeiro 1893"> Dia: 12
+Valor Suspeito Velocidade Horaria  do Vento (15H): 15.5 - <Worksheet "Janeiro 1893"> Dia: 12
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 377.1 - <Worksheet "Janeiro 1893"> Dia: 13
+Valor Suspeito Velocidade Horaria  do Vento (15H): 15.7 - <Worksheet "Janeiro 1893"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 167.7 - <Worksheet "Janeiro 1893"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 188.8 - <Worksheet "Janeiro 1893"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 234.1 - <Worksheet "Janeiro 1893"> Dia: 16
+Formato de Valor incorrecto: <Worksheet "Janeiro 1893"> Dia: 17 Hora :15 Coluna 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 199.4 - <Worksheet "Janeiro 1893"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 189.7 - <Worksheet "Janeiro 1893"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 153.6 - <Worksheet "Janeiro 1893"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 212.0 - <Worksheet "Janeiro 1893"> Dia: 26
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 223.6 - <Worksheet "Janeiro 1893"> Dia: 27
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 180.0 - <Worksheet "Janeiro 1893"> Dia: 28
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 180.0 - <Worksheet "Janeiro 1893"> Dia: 29
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 156.5 - <Worksheet "Janeiro 1893"> Dia: 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 208.7 - <Worksheet "Janeiro 1893"> Dia: 31
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 179.5 - <Worksheet "Fevereiro 1893"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 236.3 - <Worksheet "Fevereiro 1893"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 216.9 - <Worksheet "Fevereiro 1893"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 173.2 - <Worksheet "Fevereiro 1893"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 154.6 - <Worksheet "Fevereiro 1893"> Dia: 17
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 160.2 - <Worksheet "Fevereiro 1893"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 260.7 - <Worksheet "Fevereiro 1893"> Dia: 19
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 401.8 - <Worksheet "Fevereiro 1893"> Dia: 21
+Valor Suspeito Velocidade Horaria  do Vento (15H): 16.7 - <Worksheet "Fevereiro 1893"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 222.2 - <Worksheet "Fevereiro 1893"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 286.6 - <Worksheet "Fevereiro 1893"> Dia: 23
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 491.9 - <Worksheet "Fevereiro 1893"> Dia: 24
+Valor Suspeito Velocidade Horaria  do Vento (15H): 20.4 - <Worksheet "Fevereiro 1893"> Dia: 24
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 282.6 - <Worksheet "Fevereiro 1893"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 361.9 - <Worksheet "Fevereiro 1893"> Dia: 26
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 344.2 - <Worksheet "Fevereiro 1893"> Dia: 27
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 207.6 - <Worksheet "Fevereiro 1893"> Dia: 28
+Formato de Valor incorrecto: <Worksheet "Mar\xe7o 1893"> Dia: 1 Hora :15 Coluna 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 220.6 - <Worksheet "Mar\xe7o 1893"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 155.5 - <Worksheet "Mar\xe7o 1893"> Dia: 7
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 275.6 - <Worksheet "Mar\xe7o 1893"> Dia: 8
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 173.2 - <Worksheet "Mar\xe7o 1893"> Dia: 10
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 155.3 - <Worksheet "Mar\xe7o 1893"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 158.6 - <Worksheet "Mar\xe7o 1893"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 206.2 - <Worksheet "Mar\xe7o 1893"> Dia: 26
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 187.4 - <Worksheet "Mar\xe7o 1893"> Dia: 27
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 348.3 - <Worksheet "Mar\xe7o 1893"> Dia: 28
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 369.9 - <Worksheet "Mar\xe7o 1893"> Dia: 29
+Valor Suspeito Velocidade Horaria  do Vento (15H): 15.4 - <Worksheet "Mar\xe7o 1893"> Dia: 29
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 224.2 - <Worksheet "Abril 1893"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 221.2 - <Worksheet "Abril 1893"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 152.1 - <Worksheet "Abril 1893"> Dia: 7
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 188.9 - <Worksheet "Abril 1893"> Dia: 20
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 230.1 - <Worksheet "Abril 1893"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 279.3 - <Worksheet "Abril 1893"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 204.6 - <Worksheet "Abril 1893"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 173.8 - <Worksheet "Abril 1893"> Dia: 26
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 156.7 - <Worksheet "Abril 1893"> Dia: 27
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 190.0 - <Worksheet "Abril 1893"> Dia: 29
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 180.3 - <Worksheet "Abril 1893"> Dia: 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 169.8 - <Worksheet "Maio 1893"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 243.3 - <Worksheet "Maio 1893"> Dia: 8
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 193.1 - <Worksheet "Maio 1893"> Dia: 12
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 223.0 - <Worksheet "Maio 1893"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 190.4 - <Worksheet "Maio 1893"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 245.8 - <Worksheet "Maio 1893"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 340.1 - <Worksheet "Maio 1893"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 523.2 - <Worksheet "Maio 1893"> Dia: 17
+Valor Suspeito Velocidade Horaria  do Vento (15H): 21.8 - <Worksheet "Maio 1893"> Dia: 17
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 467.5 - <Worksheet "Maio 1893"> Dia: 18
+Valor Suspeito Velocidade Horaria  do Vento (15H): 19.4 - <Worksheet "Maio 1893"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 294.7 - <Worksheet "Maio 1893"> Dia: 19
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 227.8 - <Worksheet "Maio 1893"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 171.0 - <Worksheet "Maio 1893"> Dia: 23
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 172.1 - <Worksheet "Maio 1893"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 158.3 - <Worksheet "Maio 1893"> Dia: 27
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 158.2 - <Worksheet "Maio 1893"> Dia: 28
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 239.6 - <Worksheet "Junho 1893"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 180.2 - <Worksheet "Junho 1893"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 229.1 - <Worksheet "Junho 1893"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 198.1 - <Worksheet "Junho 1893"> Dia: 6
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 199.0 - <Worksheet "Junho 1893"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 164.0 - <Worksheet "Junho 1893"> Dia: 12
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 203.1 - <Worksheet "Junho 1893"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 288.0 - <Worksheet "Junho 1893"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 186.2 - <Worksheet "Junho 1893"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 248.2 - <Worksheet "Junho 1893"> Dia: 17
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 160.7 - <Worksheet "Junho 1893"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 204.8 - <Worksheet "Junho 1893"> Dia: 19
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 165.6 - <Worksheet "Junho 1893"> Dia: 22
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 152.6 - <Worksheet "Julho 1893"> Dia: 10
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 191.2 - <Worksheet "Julho 1893"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 249.0 - <Worksheet "Julho 1893"> Dia: 15
+Valor Suspeito Tensao Vapor (15H): 17.12 - <Worksheet "Julho 1893"> Dia: 17
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 152.6 - <Worksheet "Julho 1893"> Dia: 21
+Valor Suspeito Tensao Vapor (12H): 17.58 - <Worksheet "Julho 1893"> Dia: 23
+Valor Suspeito Tensao Vapor (15H): 17.13 - <Worksheet "Julho 1893"> Dia: 23
+Valor Suspeito Tensao Vapor (9H): 18.26 - <Worksheet "Julho 1893"> Dia: 24
+Valor Suspeito Tensao Vapor (12H): 17.34 - <Worksheet "Julho 1893"> Dia: 24
+Valor Suspeito Tensao Vapor (15H): 18.7 - <Worksheet "Julho 1893"> Dia: 24
+Valor Suspeito Tensao Vapor (12H): 19.09 - <Worksheet "Julho 1893"> Dia: 25
+Valor Suspeito Tensao Vapor (15H): 19.28 - <Worksheet "Julho 1893"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 178.6 - <Worksheet "Julho 1893"> Dia: 26
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 201.0 - <Worksheet "Julho 1893"> Dia: 27
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 260.0 - <Worksheet "Julho 1893"> Dia: 28
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 229.0 - <Worksheet "Julho 1893"> Dia: 29
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 218.2 - <Worksheet "Julho 1893"> Dia: 31
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 204.0 - <Worksheet "Agosto 1893"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 217.7 - <Worksheet "Agosto 1893"> Dia: 2
+Valor Suspeito Tensao Vapor (15H): 18.09 - <Worksheet "Agosto 1893"> Dia: 21
+Valor Suspeito Tensao Vapor (15H): 17.75 - <Worksheet "Agosto 1893"> Dia: 25
+Valor Suspeito Tensao Vapor (15H): 17.02 - <Worksheet "Agosto 1893"> Dia: 26
+Valor Suspeito Tensao Vapor (15H): 18.24 - <Worksheet "Agosto 1893"> Dia: 28
+Valor Suspeito Tensao Vapor (12H): 17.13 - <Worksheet "Setembro 1893"> Dia: 2
+Valor Suspeito Tensao Vapor (15H): 17.38 - <Worksheet "Setembro 1893"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 174.9 - <Worksheet "Setembro 1893"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 161.4 - <Worksheet "Setembro 1893"> Dia: 10
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 172.8 - <Worksheet "Setembro 1893"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 274.8 - <Worksheet "Setembro 1893"> Dia: 14
+Valor Suspeito Tensao Vapor (9H): 17.2 - <Worksheet "Setembro 1893"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 168.8 - <Worksheet "Setembro 1893"> Dia: 23
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 265.8 - <Worksheet "Setembro 1893"> Dia: 24
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 213.4 - <Worksheet "Setembro 1893"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 217.7 - <Worksheet "Outubro 1883"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 275.5 - <Worksheet "Outubro 1883"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 449.6 - <Worksheet "Outubro 1883"> Dia: 5
+Valor Suspeito Velocidade Horaria  do Vento (15H): 18.7 - <Worksheet "Outubro 1883"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 151.8 - <Worksheet "Outubro 1883"> Dia: 6
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 154.2 - <Worksheet "Outubro 1883"> Dia: 8
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 151.5 - <Worksheet "Outubro 1883"> Dia: 10
+Valor Suspeito Tensao Vapor (15H): 19.67 - <Worksheet "Outubro 1883"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 205.0 - <Worksheet "Outubro 1883"> Dia: 17
+Valor Suspeito Tensao Vapor (12H): 17.01 - <Worksheet "Outubro 1883"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 243.6 - <Worksheet "Outubro 1883"> Dia: 20
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 151.8 - <Worksheet "Outubro 1883"> Dia: 21
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 166.5 - <Worksheet "Outubro 1883"> Dia: 24
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 175.3 - <Worksheet "Outubro 1883"> Dia: 28
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 152.7 - <Worksheet "Outubro 1883"> Dia: 31
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 353.3 - <Worksheet "Novembro 1893"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 255.1 - <Worksheet "Novembro 1893"> Dia: 2
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 205.8 - <Worksheet "Novembro 1893"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 191.5 - <Worksheet "Novembro 1893"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 164.0 - <Worksheet "Novembro 1893"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 274.7 - <Worksheet "Novembro 1893"> Dia: 9
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 237.4 - <Worksheet "Novembro 1893"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 269.2 - <Worksheet "Novembro 1893"> Dia: 12
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 424.3 - <Worksheet "Novembro 1893"> Dia: 13
+Valor Suspeito Velocidade Horaria  do Vento (15H): 17.6 - <Worksheet "Novembro 1893"> Dia: 13
+Valor Suspeito de Quantidade de Nuvens (12H): 110.0 - <Worksheet "Novembro 1893"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 244.1 - <Worksheet "Novembro 1893"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 151.6 - <Worksheet "Novembro 1893"> Dia: 15
+Valor Suspeito Velocidade Horaria  do Vento (15H): 63.3 - <Worksheet "Novembro 1893"> Dia: 15
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 263.6 - <Worksheet "Novembro 1893"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 248.4 - <Worksheet "Novembro 1893"> Dia: 17
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 265.0 - <Worksheet "Novembro 1893"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 159.3 - <Worksheet "Novembro 1893"> Dia: 20
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 189.8 - <Worksheet "Novembro 1893"> Dia: 23
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 287.6 - <Worksheet "Novembro 1893"> Dia: 24
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 262.4 - <Worksheet "Novembro 1893"> Dia: 28
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 207.5 - <Worksheet "Novembro 1893"> Dia: 29
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 172.7 - <Worksheet "Dezembro 1893"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 150.7 - <Worksheet "Dezembro 1893"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 196.0 - <Worksheet "Dezembro 1893"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 216.2 - <Worksheet "Dezembro 1893"> Dia: 12
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 409.1 - <Worksheet "Dezembro 1893"> Dia: 13
+Valor Suspeito Velocidade Horaria  do Vento (15H): 17.0 - <Worksheet "Dezembro 1893"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 217.5 - <Worksheet "Dezembro 1893"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 160.5 - <Worksheet "Dezembro 1893"> Dia: 16
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 171.7 - <Worksheet "Dezembro 1893"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 204.0 - <Worksheet "Dezembro 1893"> Dia: 26
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 159.1 - <Worksheet "Dezembro 1893"> Dia: 29
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 229.1 - <Worksheet "Dezembro 1893"> Dia: 30
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 244.5 - <Worksheet "Dezembro 1893"> Dia: 31
+1890 - 1898/REGISTOS METEOROLOGICOS 1893.xlsx
+----------------------------

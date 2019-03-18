@@ -1,0 +1,28 @@
+['REGISTOS METEOROLOGICOS 1898.xlsx']
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 451.4 - <Worksheet "Janeiro 1898"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 318.1 - <Worksheet "Janeiro 1898"> Dia: 2
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 210.1 - <Worksheet "Janeiro 1898"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 241.8 - <Worksheet "Janeiro 1898"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 292.9 - <Worksheet "Janeiro 1898"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 151.2 - <Worksheet "Janeiro 1898"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 157.1 - <Worksheet "Janeiro 1898"> Dia: 14
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 160.6 - <Worksheet "Janeiro 1898"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 194.7 - <Worksheet "Janeiro 1898"> Dia: 26
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 175.5 - <Worksheet "Janeiro 1898"> Dia: 27
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 150.8 - <Worksheet "Fevereiro 1898"> Dia: 3
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 150.2 - <Worksheet "Fevereiro 1898"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 226.9 - <Worksheet "Fevereiro 1898"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 181.9 - <Worksheet "Fevereiro 1898"> Dia: 9
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 185.4 - <Worksheet "Mar\xe7o 1898"> Dia: 1
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 226.8 - <Worksheet "Mar\xe7o 1898"> Dia: 4
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 330.4 - <Worksheet "Mar\xe7o 1898"> Dia: 5
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 163.9 - <Worksheet "Mar\xe7o 1898"> Dia: 6
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 168.1 - <Worksheet "Mar\xe7o 1898"> Dia: 9
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 225.7 - <Worksheet "Mar\xe7o 1898"> Dia: 11
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 169.8 - <Worksheet "Mar\xe7o 1898"> Dia: 13
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 158.5 - <Worksheet "Mar\xe7o 1898"> Dia: 17
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 169.2 - <Worksheet "Mar\xe7o 1898"> Dia: 18
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 344.8 - <Worksheet "Mar\xe7o 1898"> Dia: 25
+Valor Suspeito Velocidade Absoluta  do Vento (15H): 203.6 - <Worksheet "Mar\xe7o 1898"> Dia: 29
+1898/REGISTOS METEOROLOGICOS 1898.xlsx
+----------------------------
